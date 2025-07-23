@@ -17,36 +17,69 @@ This project documents the behavioral and forensic analysis of a malware sample 
 - Volatility 2.6
 - FTK Imager
 - Kali Linux
-- VMware
+- VMware Workstation
 
 ## Key Findings
 
-### Network Indicators
+## Network Indicators
+- Repeated malformed DNS responses targeting 85.114.128.127
 
+- HTTP GET request to `23.12.131.222` requesting Flash Player payload (404 Not Found)
+```sql
+/get/flashplayer/update/current/install/install_all_win_cab_64_ax_sgn.z
+```
 
 ### Memory Artifacts
+- Hidden `cmd.exe` process (PID 6296) visible only via `psscan`
+- Injected code found ising malfind + YARA in:
 
+    - `SearchApp.exe` (PID 2428) memory regions:
 
-### Persistence Mechanism
+        - 0x2ba63b80000–0x2ba63c8cfff
 
+        - 0x2ba628b0000–0x2ba629bcfff
+
+        - 0x2ba62150000–0x2ba6224ffff
+
+        - 0x2ba64190000–0x2ba6429cfff
+
+    - MsMpEng.exe (PID 3892):
+
+        - 0x9ab0000–0x9ac1fff
+        
+- Suspicious spoofing via msedgewebview2.exe launching SearchApp.exe
+- Duplicate SSDT entry for `GetPnpProperty@NT_DISK` (possible anomaly)
 
 ### IOCs (Indicators of Compromise)
-
+- RWX memory injection into 
+    - SearchApp.exe
+    - MsMpEng.exe
+- Hidden process `cmd.exe` (PID 6296)
+- Fake browser process with embedded WebView CLI
 
 ## Directories
 malware-analysis-report/
 │
 ├── README.md
 ├── memory.raw                
-├── malware_analysis.pcap    
+├── malware_analysis.pcap
+├── IOCs.txt
+├── injectedCode.yar   
 ├── reports/
 │   ├── network_report
 │   ├── volatility_report
 │   └── iocs.txt
 ├── screenshots of steps taken/
-|   volatility analysis on kali linux/
-|   wireshark,ipk on windows/  
-|       
+|   ├── volatility analysis on kali linux/
+|   |   ├──first trial/
+|   |   └──second trial/
+|   └── wireshark,ipk on windows/  
+|  
+├── volatility outputs/
+|   ├──first trial/
+|   └──second trial/
+|      └──malfind dmp files/ 
+|  
 └── tools_used.md
 
 

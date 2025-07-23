@@ -1,0 +1,218 @@
+4a5,10
+> 3120	1660	sihost.exe	0x9d00000440c0	8	-	1	False	2025-07-22
+> 2164	6852	msedgewebview2	0x9d0000045080	8	-	1	False	2025-07-22
+> 3148	572	svchost.exe	0x9d0000171080	9	-	1	False	2025-07-22
+> 1400	572	svchost.exe	0xc58f99662080	5	-	0	False	2025-07-22
+> 1384	572	svchost.exe	0xc58f99666080	3	-	0	False	2025-07-22
+> 1268	572	svchost.exe	0xc58f996682c0	7	-	0	False	2025-07-22
+5a12
+> 1284	572	VBoxService.ex	0xc58f99684280	10	-	0	False	2025-07-22
+6a14,17
+> 6068	256	msedge.exe	0xc58f99e452c0	0	-	1	False	2025-07-22
+> 6616	572	svchost.exe	0xc58f99e650c0	2	-	0	False	2025-07-22
+> 8536	1268	MicrosoftEdgeU	0xc58f99e66080	3	-	0	True	2025-07-22
+> 8460	3560	FTK
+7a19,37
+> 5640	572	svchost.exe	0xc58f9c34b080	1	-	0	False	2025-07-22
+> 4192	716	UserOOBEBroker	0xc58f9c3ce080	1	-	1	False	2025-07-22
+> 6072	6148	msedge.exe	0xc58f9c3d2080	0	-	1	False	2025-07-22
+> 8604	6852	msedgewebview2	0xc58f9c47f080	17	-	1	False	2025-07-22
+> 7780	4724	msedge.exe	0xc58f9c5d90c0	16	-	1	False	2025-07-22
+> 3332	4724	msedge.exe	0xc58f9c5f9080	17	-	1	False	2025-07-22
+> 8396	4724	msedge.exe	0xc58f9c62d080	9	-	1	False	2025-07-22
+> 4136	4724	msedge.exe	0xc58f9c671080	15	-	1	False	2025-07-22
+> 9784	4724	msedge.exe	0xc58f9c680080	11	-	1	False	2025-07-22
+> 8492	4724	msedge.exe	0xc58f9c74b080	7	-	1	False	2025-07-22
+> 10052	716	RuntimeBroker.	0xc58f9c8c2080	0	-	1	False	2025-07-22
+> 7712	4724	msedge.exe	0xc58f9c8ef080	11	-	1	False	2025-07-22
+> 5212	716	SkypeBackgroun	0xc58f9c9a5080	4	-	1	False	2025-07-22
+> 3716	5168	msedge.exe	0xc58f9ca7b080	0	-	1	False	2025-07-22
+> 1948	6852	msedgewebview2	0xc58f9ca9a2c0	9	-	1	False	2025-07-22
+> 4976	4232	msedge.exe	0xc58f9ccf5080	0	-	1	False	2025-07-22
+> 7480	572	svchost.exe	0xc58f9cd9d240	0	-	0	False	2025-07-22
+> 5016	572	svchost.exe	0xc58f9cef4080	3	-	0	False	2025-07-22
+> 5360	256	msedge.exe	0xc58f9cf79080	0	-	1	False	2025-07-22
+8a39,41
+> 7956	572	svchost.exe	0xc58f9f3e0080	5	-	0	False	2025-07-22
+> 7636	716	SystemSettings	0xc58f9f3e3080	20	-	1	False	2025-07-22
+> 700	548	fontdrvhost.ex	0xc58f9fac7140	5	-	1	False	2025-07-22
+10a44,45
+> 708	480	fontdrvhost.ex	0xc58f9fc88080	5	-	0	False	2025-07-22
+> 716	572	svchost.exe	0xc58f9fc8a240	10	-	0	False	2025-07-22
+14,16d48
+< 700	548	fontdrvhost.ex	0xc58f9fac7140	5	-	1	False	2025-07-22
+< 708	480	fontdrvhost.ex	0xc58f9fc88080	5	-	0	False	2025-07-22
+< 716	572	svchost.exe	0xc58f9fc8a240	10	-	0	False	2025-07-22
+19a52,55
+> 4812	716	TextInputHost.	0xc58fa0428080	11	-	1	False	2025-07-22
+> 5648	572	svchost.exe	0xc58fa0451080	4	-	0	False	2025-07-22
+> 2880	4232	msedge.exe	0xc58fa0456080	0	-	1	False	2025-07-22
+> 4860	256	msedge.exe	0xc58fa04572c0	0	-	1	False	2025-07-22
+20a57,59
+> 6840	716	dllhost.exe	0xc58fa0503080	5	-	1	False	2025-07-22
+> 324	2868	SearchProtocol	0xc58fa0528080	0	-	0	False	2025-07-22
+> 2204	572	svchost.exe	0xc58fa05a4300	3	-	0	False	2025-07-22
+28,31c67,68
+< 1268	572	svchost.exe	0xc58f996682c0	7	-	0	False	2025-07-22
+< 1284	572	VBoxService.ex	0xc58f99684280	10	-	0	False	2025-07-22
+< 1384	572	svchost.exe	0xc58f99666080	3	-	0	False	2025-07-22
+< 1400	572	svchost.exe	0xc58f99662080	5	-	0	False	2025-07-22
+---
+> 1044	572	svchost.exe	0xc58fa081e080	1	-	1	False	2025-07-22
+> 1164	716	dllhost.exe	0xc58fa0824080	2	-	1	False	2025-07-22
+34a72
+> 8072	716	RuntimeBroker.	0xc58fa09ac080	0	-	1	False	2025-07-22
+36a75
+> 1716	572	svchost.exe	0xc58fa09e3080	3	-	0	False	2025-07-22
+40,41d78
+< 1716	572	svchost.exe	0xc58fa09e3080	3	-	0	False	2025-07-22
+< 1832	572	svchost.exe	0xc58fa0c15300	2	-	0	False	2025-07-22
+42a80
+> 1832	572	svchost.exe	0xc58fa0c15300	2	-	0	False	2025-07-22
+47a86
+> 9372	716	dllhost.exe	0xc58fa0db9080	0	-	1	False	2025-07-22
+61,62d99
+< 2860	572	svchost.exe	0xc58fa11d42c0	5	-	0	False	2025-07-22
+< 2868	572	SearchIndexer.	0xc58fa11e3240	15	-	0	False	2025-07-22
+63a101
+> 2164	6852	msedgewebview2	0xc58fa1078080	8	-	1	False	2025-07-22
+64a103,108
+> 2860	572	svchost.exe	0xc58fa11d42c0	5	-	0	False	2025-07-22
+> 2868	572	SearchIndexer.	0xc58fa11e3240	15	-	0	False	2025-07-22
+> 6932	2868	SearchFilterHo	0xc58fa1304080	7	-	0	False	2025-07-22
+> 764	5168	msedge.exe	0xc58fa13392c0	0	-	1	False	2025-07-22
+> 7036	716	explorer.exe	0xc58fa1342080	7	-	1	False	2025-07-22
+> 6172	5168	msedge.exe	0xc58fa138a2c0	0	-	1	False	2025-07-22
+68a113
+> 1352	572	svchost.exe	0xc58fa14a02c0	2	-	0	False	2025-07-22
+69a115
+> 1676	6852	msedgewebview2	0xc58fa14f0340	22	-	1	False	2025-07-22
+72a119
+> 3880	716	ApplicationFra	0xc58fa15c0080	4	-	1	False	2025-07-22
+74a122
+> 4764	716	ShellExperienc	0xc58fa17d0080	23	-	1	False	2025-07-22
+76a125,130
+> 6192	6852	msedgewebview2	0xc58fa1872080	19	-	1	False	2025-07-22
+> 9100	3560	WinRAR.exe	0xc58fa189d080	2	-	1	False	2025-07-22
+> 1724	572	svchost.exe	0xc58fa18c20c0	10	-	0	False	2025-07-22
+> 5916	716	SearchApp.exe	0xc58fa18ec0c0	16	-	1	False	2025-07-22
+> 4912	716	RuntimeBroker.	0xc58fa18f52c0	3	-	1	False	2025-07-22
+> 6852	5916	msedgewebview2	0xc58fa18f6080	47	-	1	False	2025-07-22
+78a133
+> 944	3560	Wireshark.exe	0xc58fa19f0380	7	-	1	False	2025-07-22
+80,86c135
+< 4812	716	TextInputHost.	0xc58fa0428080	11	-	1	False	2025-07-22
+< 3616	572	svchost.exe	0xc58fa1e41080	5	-	0	False	2025-07-22
+< 5256	572	svchost.exe	0xc58fa1f2d240	3	-	0	False	2025-07-22
+< 5540	716	RuntimeBroker.	0xc58fa1f2c080	2	-	1	False	2025-07-22
+< 5632	3560	SecurityHealth	0xc58fa1fb3180	1	-	1	False	2025-07-22
+< 5664	572	SecurityHealth	0xc58fa1fb5240	6	-	0	False	2025-07-22
+< 5744	3560	VBoxTray.exe	0xc58fa1f26080	11	-	1	False	2025-07-22
+---
+> 1216	3560	notepad.exe	0xc58fa1a72340	2	-	1	False	2025-07-22
+88,95d136
+< 3880	716	ApplicationFra	0xc58fa15c0080	4	-	1	False	2025-07-22
+< 1432	572	svchost.exe	0xc58fa1f86080	1	-	1	False	2025-07-22
+< 4312	572	svchost.exe	0xc58fa1f41080	1	-	0	False	2025-07-22
+< 4828	572	SgrmBroker.exe	0xc58fa1f6d080	7	-	0	False	2025-07-22
+< 5304	572	svchost.exe	0xc58fa1f79080	1	-	0	False	2025-07-22
+< 5488	572	svchost.exe	0xc58fa1bee080	6	-	0	False	2025-07-22
+< 4584	572	svchost.exe	0xc58fa1f0a080	8	-	0	False	2025-07-22
+< 1352	572	svchost.exe	0xc58fa14a02c0	2	-	0	False	2025-07-22
+97d137
+< 3376	572	svchost.exe	0xc58fa1f7a080	2	-	0	False	2025-07-22
+99,101d138
+< 4912	716	RuntimeBroker.	0xc58fa18f52c0	3	-	1	False	2025-07-22
+< 5212	716	SkypeBackgroun	0xc58f9c9a5080	4	-	1	False	2025-07-22
+< 6840	716	dllhost.exe	0xc58fa0503080	5	-	1	False	2025-07-22
+103,108c140
+< 6072	6148	msedge.exe	0xc58f9c3d2080	0	-	1	False	2025-07-22
+< 1724	572	svchost.exe	0xc58fa18c20c0	10	-	0	False	2025-07-22
+< 6068	256	msedge.exe	0xc58f99e452c0	0	-	1	False	2025-07-22
+< 5360	256	msedge.exe	0xc58f9cf79080	0	-	1	False	2025-07-22
+< 4860	256	msedge.exe	0xc58fa04572c0	0	-	1	False	2025-07-22
+< 5640	572	svchost.exe	0xc58f9c34b080	1	-	0	False	2025-07-22
+---
+> 5488	572	svchost.exe	0xc58fa1bee080	6	-	0	False	2025-07-22
+110,113d141
+< 6616	572	svchost.exe	0xc58f99e650c0	2	-	0	False	2025-07-22
+< 4976	4232	msedge.exe	0xc58f9ccf5080	0	-	1	False	2025-07-22
+< 2880	4232	msedge.exe	0xc58fa0456080	0	-	1	False	2025-07-22
+< 6388	4232	msedge.exe	0xc58fa1e4f340	0	-	1	False	2025-07-22
+115,117c143,145
+< 5648	572	svchost.exe	0xc58fa0451080	4	-	0	False	2025-07-22
+< 2204	572	svchost.exe	0xc58fa05a4300	3	-	0	False	2025-07-22
+< 4764	716	ShellExperienc	0xc58fa17d0080	23	-	1	False	2025-07-22
+---
+> 3616	572	svchost.exe	0xc58fa1e41080	5	-	0	False	2025-07-22
+> 2116	572	svchost.exe	0xc58fa1e4e080	2	-	0	False	2025-07-22
+> 6388	4232	msedge.exe	0xc58fa1e4f340	0	-	1	False	2025-07-22
+119,121c147
+< 764	5168	msedge.exe	0xc58fa13392c0	0	-	1	False	2025-07-22
+< 6172	5168	msedge.exe	0xc58fa138a2c0	0	-	1	False	2025-07-22
+< 3716	5168	msedge.exe	0xc58f9ca7b080	0	-	1	False	2025-07-22
+---
+> 4584	572	svchost.exe	0xc58fa1f0a080	8	-	0	False	2025-07-22
+122a149,154
+> 5744	3560	VBoxTray.exe	0xc58fa1f26080	11	-	1	False	2025-07-22
+> 5540	716	RuntimeBroker.	0xc58fa1f2c080	2	-	1	False	2025-07-22
+> 5256	572	svchost.exe	0xc58fa1f2d240	3	-	0	False	2025-07-22
+> 1004	3560	WinRAR.exe	0xc58fa1f3b080	2	-	1	False	2025-07-22
+> 4312	572	svchost.exe	0xc58fa1f41080	1	-	0	False	2025-07-22
+> 4828	572	SgrmBroker.exe	0xc58fa1f6d080	7	-	0	False	2025-07-22
+125,131c157,162
+< 5016	572	svchost.exe	0xc58f9cef4080	3	-	0	False	2025-07-22
+< 5916	716	SearchApp.exe	0xc58fa18ec0c0	16	-	1	False	2025-07-22
+< 6852	5916	msedgewebview2	0xc58fa18f6080	47	-	1	False	2025-07-22
+< 2164	6852	msedgewebview2	0xc58fa1078080	8	-	1	False	2025-07-22
+< 6192	6852	msedgewebview2	0xc58fa1872080	19	-	1	False	2025-07-22
+< 1676	6852	msedgewebview2	0xc58fa14f0340	22	-	1	False	2025-07-22
+< 1948	6852	msedgewebview2	0xc58f9ca9a2c0	9	-	1	False	2025-07-22
+---
+> 5304	572	svchost.exe	0xc58fa1f79080	1	-	0	False	2025-07-22
+> 3376	572	svchost.exe	0xc58fa1f7a080	2	-	0	False	2025-07-22
+> 1432	572	svchost.exe	0xc58fa1f86080	1	-	1	False	2025-07-22
+> 5632	3560	SecurityHealth	0xc58fa1fb3180	1	-	1	False	2025-07-22
+> 5664	572	SecurityHealth	0xc58fa1fb5240	6	-	0	False	2025-07-22
+> 5020	716	dllhost.exe	0xc58fa24d4080	2	-	1	False	2025-07-22
+133,136d163
+< 2116	572	svchost.exe	0xc58fa1e4e080	2	-	0	False	2025-07-22
+< 1216	3560	notepad.exe	0xc58fa1a72340	2	-	1	False	2025-07-22
+< 1044	572	svchost.exe	0xc58fa081e080	1	-	1	False	2025-07-22
+< 1924	716	SystemSettings	0xc58fa2b26080	1	-	1	False	2025-07-22
+138,152c165
+< 5020	716	dllhost.exe	0xc58fa24d4080	2	-	1	False	2025-07-22
+< 7036	716	explorer.exe	0xc58fa1342080	7	-	1	False	2025-07-22
+< 1164	716	dllhost.exe	0xc58fa0824080	2	-	1	False	2025-07-22
+< 7480	572	svchost.exe	0xc58f9cd9d240	0	-	0	False	2025-07-22
+< 7956	572	svchost.exe	0xc58f9f3e0080	5	-	0	False	2025-07-22
+< 4724	2404	msedge.exe	0xc58fb58d3080	52	-	1	False	2025-07-22
+< 8492	4724	msedge.exe	0xc58f9c74b080	7	-	1	False	2025-07-22
+< 3332	4724	msedge.exe	0xc58f9c5f9080	17	-	1	False	2025-07-22
+< 4136	4724	msedge.exe	0xc58f9c671080	15	-	1	False	2025-07-22
+< 8396	4724	msedge.exe	0xc58f9c62d080	9	-	1	False	2025-07-22
+< 8604	6852	msedgewebview2	0xc58f9c47f080	17	-	1	False	2025-07-22
+< 7780	4724	msedge.exe	0xc58f9c5d90c0	16	-	1	False	2025-07-22
+< 8868	4724	msedge.exe	0xc58fa4108080	15	-	1	False	2025-07-22
+< 7712	4724	msedge.exe	0xc58f9c8ef080	11	-	1	False	2025-07-22
+< 9784	4724	msedge.exe	0xc58f9c680080	11	-	1	False	2025-07-22
+---
+> 1924	716	SystemSettings	0xc58fa2b26080	1	-	1	False	2025-07-22
+154,155c167
+< 1004	3560	WinRAR.exe	0xc58fa1f3b080	2	-	1	False	2025-07-22
+< 9100	3560	WinRAR.exe	0xc58fa189d080	2	-	1	False	2025-07-22
+---
+> 8868	4724	msedge.exe	0xc58fa4108080	15	-	1	False	2025-07-22
+157,163c169,172
+< 7636	716	SystemSettings	0xc58f9f3e3080	20	-	1	False	2025-07-22
+< 4192	716	UserOOBEBroker	0xc58f9c3ce080	1	-	1	False	2025-07-22
+< 944	3560	Wireshark.exe	0xc58fa19f0380	7	-	1	False	2025-07-22
+< 8460	3560	FTK
+< 8536	1268	MicrosoftEdgeU	0xc58f99e66080	3	-	0	True	2025-07-22
+< 6932	2868	SearchFilterHo	0xc58fa1304080	7	-	0	False	2025-07-22
+< 324	2868	SearchProtocol	0xc58fa0528080	0	-	0	False	2025-07-22
+---
+> 3992	716	backgroundTask	0xc58fa4191080	0	-	1	False	2025-07-22
+> 4724	2404	msedge.exe	0xc58fb58d3080	52	-	1	False	2025-07-22
+> 3544	572	svchost.exe	0xc58fb58d9080	0	-	0	False	2025-07-22
+> 8208	716	backgroundTask	0xc58fb58e9080	0	-	1	False	2025-07-22

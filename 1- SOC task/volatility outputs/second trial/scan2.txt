@@ -1,0 +1,148 @@
+Volatility 3 Framework 2.26.2
+
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime	File output
+
+1312	584	svchost.exe	0x9a08b7882080	4	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+4	0	System	0x9a08b7883080	110	-	N/A	False	2025-07-23 11:05:48.000000 UTC	N/A	Disabled
+72	4	Registry	0x9a08b7955040	4	-	N/A	False	2025-07-23 11:05:42.000000 UTC	N/A	Disabled
+8940	584	svchost.exe	0x9a08ba05c080	3	-	0	False	2025-07-23 11:10:17.000000 UTC	N/A	Disabled
+7064	584	svchost.exe	0x9a08ba2682c0	5	-	0	False	2025-07-23 11:09:10.000000 UTC	N/A	Disabled
+952	692	dllhost.exe	0x9a08ba598080	0	-	1	False	2025-07-23 11:15:47.000000 UTC	2025-07-23 11:15:57.000000 UTC	Disabled
+320	4	smss.exe	0x9a08ba5b2040	2	-	N/A	False	2025-07-23 11:05:48.000000 UTC	N/A	Disabled
+9756	2752	SearchProtocol	0x9a08ba77d080	0	-	1	False	2025-07-23 11:10:32.000000 UTC	2025-07-23 11:16:04.000000 UTC	Disabled
+8912	692	RuntimeBroker.	0x9a08ba7852c0	8	-	1	False	2025-07-23 11:09:37.000000 UTC	N/A	Disabled
+8816	692	ShellExperienc	0x9a08ba786080	39	-	1	False	2025-07-23 11:09:37.000000 UTC	N/A	Disabled
+9144	692	WmiPrvSE.exe	0x9a08baf3a080	10	-	0	False	2025-07-23 11:15:17.000000 UTC	N/A	Disabled
+8256	3892	FTK Imager.exe	0x9a08baf47080	0	-	1	False	2025-07-23 11:14:40.000000 UTC	2025-07-23 11:14:40.000000 UTC	Disabled
+6296	6760	cmd.exe	0x9a08baff6080	0	-	1	False	2025-07-23 11:13:56.000000 UTC	2025-07-23 11:13:58.000000 UTC	Disabled
+3788	692	SystemSettings	0x9a08bd4530c0	5	-	1	False	2025-07-23 11:11:01.000000 UTC	N/A	Disabled
+7412	2428	MpCmdRun.exe	0x9a08bd6a90c0	9	-	0	False	2025-07-23 11:16:06.000000 UTC	N/A	Disabled
+8372	1756	audiodg.exe	0x9a08bd6c92c0	2	-	0	False	2025-07-23 11:09:24.000000 UTC	N/A	Disabled
+9000	584	sppsvc.exe	0x9a08bd6f0080	10	-	0	False	2025-07-23 11:16:10.000000 UTC	N/A	Disabled
+2552	4660	conhost.exe	0x9a08bd726080	0	-	0	False	2025-07-23 11:08:58.000000 UTC	2025-07-23 11:14:11.000000 UTC	Disabled
+3276	584	svchost.exe	0x9a08bd72c240	0	-	0	False	2025-07-23 11:08:58.000000 UTC	2025-07-23 11:09:07.000000 UTC	Disabled
+592	492	lsass.exe	0x9a08bd84e080	9	-	0	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+424	412	csrss.exe	0x9a08bd85d140	9	-	0	False	2025-07-23 11:05:56.000000 UTC	N/A	Disabled
+1340	3892	WinRAR.exe	0x9a08bd9b80c0	4	-	1	False	2025-07-23 11:13:28.000000 UTC	N/A	Disabled
+7724	692	RuntimeBroker.	0x9a08bd9e82c0	4	-	1	False	2025-07-23 11:09:04.000000 UTC	N/A	Disabled
+492	412	wininit.exe	0x9a08be16e080	2	-	0	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+500	484	csrss.exe	0x9a08be173140	11	-	1	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+7028	692	ApplicationFra	0x9a08be1dd080	6	-	1	False	2025-07-23 11:06:57.000000 UTC	N/A	Disabled
+560	484	winlogon.exe	0x9a08be1e5080	5	-	1	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+584	492	services.exe	0x9a08be805080	6	-	0	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+672	492	fontdrvhost.ex	0x9a08be88b140	5	-	0	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+692	584	svchost.exe	0x9a08be88e240	14	-	0	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+716	560	fontdrvhost.ex	0x9a08be893140	5	-	1	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+808	584	svchost.exe	0x9a08be9182c0	13	-	0	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+864	584	svchost.exe	0x9a08be962240	4	-	0	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+3904	692	TextInputHost.	0x9a08be98b080	11	-	1	False	2025-07-23 11:08:44.000000 UTC	N/A	Disabled
+924	560	dwm.exe	0x9a08be98e080	17	-	1	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+996	584	svchost.exe	0x9a08be9df240	6	-	0	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+1016	584	svchost.exe	0x9a08bea112c0	3	-	0	False	2025-07-23 11:05:57.000000 UTC	N/A	Disabled
+488	584	svchost.exe	0x9a08bea46300	3	-	0	False	2025-07-23 11:05:58.000000 UTC	N/A	Disabled
+712	584	svchost.exe	0x9a08bea50280	4	-	0	False	2025-07-23 11:05:58.000000 UTC	N/A	Disabled
+348	584	svchost.exe	0x9a08bea57300	3	-	0	False	2025-07-23 11:05:58.000000 UTC	N/A	Disabled
+368	584	svchost.exe	0x9a08bea7b240	9	-	0	False	2025-07-23 11:05:58.000000 UTC	N/A	Disabled
+1136	584	svchost.exe	0x9a08bead3240	6	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1156	584	svchost.exe	0x9a08beaed300	9	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1204	584	svchost.exe	0x9a08beb27240	7	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1228	584	svchost.exe	0x9a08beb292c0	5	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1268	584	svchost.exe	0x9a08beb2b300	7	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1372	584	svchost.exe	0x9a08beb2d2c0	6	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1500	584	svchost.exe	0x9a08bebae0c0	5	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1520	584	svchost.exe	0x9a08bebb3080	3	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1436	584	VBoxService.ex	0x9a08bebb5200	11	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1492	584	svchost.exe	0x9a08bebd62c0	7	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1560	584	svchost.exe	0x9a08bebdd2c0	11	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1600	584	svchost.exe	0x9a08bec37240	3	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1612	4	MemCompression	0x9a08bec3b040	42	-	N/A	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1644	584	svchost.exe	0x9a08bec44280	3	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1656	584	svchost.exe	0x9a08bec592c0	6	-	0	False	2025-07-23 11:05:59.000000 UTC	N/A	Disabled
+1756	584	svchost.exe	0x9a08bec972c0	11	-	0	False	2025-07-23 11:06:00.000000 UTC	N/A	Disabled
+1820	584	svchost.exe	0x9a08becda240	6	-	0	False	2025-07-23 11:06:00.000000 UTC	N/A	Disabled
+1852	584	svchost.exe	0x9a08beceb2c0	9	-	0	False	2025-07-23 11:06:00.000000 UTC	N/A	Disabled
+1860	584	svchost.exe	0x9a08bed042c0	4	-	0	False	2025-07-23 11:06:00.000000 UTC	N/A	Disabled
+1868	584	svchost.exe	0x9a08bed0e2c0	6	-	0	False	2025-07-23 11:06:00.000000 UTC	N/A	Disabled
+1936	584	svchost.exe	0x9a08bed40240	5	-	0	False	2025-07-23 11:06:00.000000 UTC	N/A	Disabled
+2040	584	spoolsv.exe	0x9a08bedca200	8	-	0	False	2025-07-23 11:06:00.000000 UTC	N/A	Disabled
+1336	584	svchost.exe	0x9a08bedd9300	5	-	0	False	2025-07-23 11:06:00.000000 UTC	N/A	Disabled
+1552	584	svchost.exe	0x9a08beddf2c0	14	-	0	False	2025-07-23 11:06:00.000000 UTC	N/A	Disabled
+1784	584	svchost.exe	0x9a08bedeb2c0	6	-	0	False	2025-07-23 11:06:00.000000 UTC	N/A	Disabled
+2180	584	svchost.exe	0x9a08bee670c0	5	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2172	584	svchost.exe	0x9a08bee81240	26	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2260	584	svchost.exe	0x9a08beebe240	5	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2272	584	svchost.exe	0x9a08beec1300	5	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2280	584	svchost.exe	0x9a08beec2080	5	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2316	584	svchost.exe	0x9a08beec82c0	6	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2324	584	svchost.exe	0x9a08beec9080	13	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2336	584	svchost.exe	0x9a08beefd2c0	13	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2356	584	svchost.exe	0x9a08bef25240	16	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2420	584	svchost.exe	0x9a08bef81240	3	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2404	584	svchost.exe	0x9a08bef822c0	2	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2444	584	svchost.exe	0x9a08bef83080	7	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2428	584	MsMpEng.exe	0x9a08bef870c0	12	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2536	584	svchost.exe	0x9a08befc82c0	4	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2584	584	svchost.exe	0x9a08befdb240	7	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2740	584	svchost.exe	0x9a08bf095200	13	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+2752	584	SearchIndexer.	0x9a08bf0ab240	15	-	0	False	2025-07-23 11:06:01.000000 UTC	N/A	Disabled
+3380	1204	sihost.exe	0x9a08bf1aa2c0	9	-	1	False	2025-07-23 11:06:07.000000 UTC	N/A	Disabled
+3240	584	svchost.exe	0x9a08bf378340	7	-	0	False	2025-07-23 11:06:05.000000 UTC	N/A	Disabled
+6712	584	SgrmBroker.exe	0x9a08bf3e7080	7	-	0	False	2025-07-23 11:08:09.000000 UTC	N/A	Disabled
+3392	584	svchost.exe	0x9a08bf58b300	9	-	1	False	2025-07-23 11:06:07.000000 UTC	N/A	Disabled
+3448	584	svchost.exe	0x9a08bf5db300	6	-	1	False	2025-07-23 11:06:07.000000 UTC	N/A	Disabled
+3520	584	svchost.exe	0x9a08bf60a240	5	-	0	False	2025-07-23 11:06:08.000000 UTC	N/A	Disabled
+3552	368	taskhostw.exe	0x9a08bf60c300	9	-	1	False	2025-07-23 11:06:08.000000 UTC	N/A	Disabled
+3572	368	MicrosoftEdgeU	0x9a08bf617300	6	-	0	True	2025-07-23 11:06:08.000000 UTC	N/A	Disabled
+3628	584	svchost.exe	0x9a08bf633280	5	-	0	False	2025-07-23 11:06:08.000000 UTC	N/A	Disabled
+3680	3628	ctfmon.exe	0x9a08bf648280	11	-	1	False	2025-07-23 11:06:08.000000 UTC	N/A	Disabled
+3780	584	svchost.exe	0x9a08bf6912c0	10	-	0	False	2025-07-23 11:06:08.000000 UTC	N/A	Disabled
+3872	560	userinit.exe	0x9a08bf6c7340	0	-	1	False	2025-07-23 11:06:09.000000 UTC	2025-07-23 11:06:35.000000 UTC	Disabled
+3892	3872	explorer.exe	0x9a08bf6d7340	81	-	1	False	2025-07-23 11:06:09.000000 UTC	N/A	Disabled
+7104	584	svchost.exe	0x9a08bf6d8300	7	-	0	False	2025-07-23 11:08:36.000000 UTC	N/A	Disabled
+4080	584	svchost.exe	0x9a08bf7b3080	6	-	1	False	2025-07-23 11:06:10.000000 UTC	N/A	Disabled
+5768	692	smartscreen.ex	0x9a08bf84c080	7	-	1	False	2025-07-23 11:06:27.000000 UTC	N/A	Disabled
+4208	692	StartMenuExper	0x9a08bf8f5080	8	-	1	False	2025-07-23 11:06:12.000000 UTC	N/A	Disabled
+4368	692	SearchApp.exe	0x9a08bf999080	44	-	1	False	2025-07-23 11:06:12.000000 UTC	N/A	Disabled
+4272	692	RuntimeBroker.	0x9a08bf99a2c0	3	-	1	False	2025-07-23 11:06:12.000000 UTC	N/A	Disabled
+956	584	svchost.exe	0x9a08bfa3c080	11	-	0	False	2025-07-23 11:08:35.000000 UTC	N/A	Disabled
+4524	692	RuntimeBroker.	0x9a08bfaca2c0	9	-	1	False	2025-07-23 11:06:13.000000 UTC	N/A	Disabled
+4540	584	svchost.exe	0x9a08bfacb080	6	-	0	False	2025-07-23 11:06:13.000000 UTC	N/A	Disabled
+8024	3892	FTK Imager.exe	0x9a08bfbcc080	18	-	1	False	2025-07-23 11:14:41.000000 UTC	N/A	Disabled
+5912	3892	VBoxTray.exe	0x9a08bfc47080	13	-	1	False	2025-07-23 11:06:27.000000 UTC	N/A	Disabled
+5836	584	SecurityHealth	0x9a08bfc48240	11	-	0	False	2025-07-23 11:06:27.000000 UTC	N/A	Disabled
+4876	692	SkypeBackgroun	0x9a08bfcb0080	4	-	1	False	2025-07-23 11:06:15.000000 UTC	N/A	Disabled
+5048	692	RuntimeBroker.	0x9a08bfd132c0	3	-	1	False	2025-07-23 11:06:16.000000 UTC	N/A	Disabled
+4268	2752	SearchProtocol	0x9a08bfd17080	5	-	0	False	2025-07-23 11:08:32.000000 UTC	N/A	Disabled
+3496	584	svchost.exe	0x9a08bfd1f080	8	-	0	False	2025-07-23 11:07:09.000000 UTC	N/A	Disabled
+1416	584	svchost.exe	0x9a08bfd9a0c0	16	-	0	False	2025-07-23 11:06:18.000000 UTC	N/A	Disabled
+3184	584	svchost.exe	0x9a08bfdad2c0	6	-	0	False	2025-07-23 11:06:18.000000 UTC	N/A	Disabled
+5428	584	svchost.exe	0x9a08bfec1080	3	-	0	False	2025-07-23 11:06:22.000000 UTC	N/A	Disabled
+5368	584	svchost.exe	0x9a08bfec22c0	9	-	0	False	2025-07-23 11:06:22.000000 UTC	N/A	Disabled
+5976	3892	OneDrive.exe	0x9a08bfec52c0	22	-	1	True	2025-07-23 11:06:28.000000 UTC	N/A	Disabled
+5808	3892	SecurityHealth	0x9a08bfeca240	3	-	1	False	2025-07-23 11:06:27.000000 UTC	N/A	Disabled
+6764	692	RuntimeBroker.	0x9a08bff21080	1	-	1	False	2025-07-23 11:07:00.000000 UTC	N/A	Disabled
+5376	584	svchost.exe	0x9a08c0158080	7	-	0	False	2025-07-23 11:08:09.000000 UTC	N/A	Disabled
+2192	584	svchost.exe	0x9a08c015a080	9	-	0	False	2025-07-23 11:07:13.000000 UTC	N/A	Disabled
+5844	584	svchost.exe	0x9a08c015b080	1	-	1	False	2025-07-23 11:08:10.000000 UTC	N/A	Disabled
+6140	3892	msedge.exe	0x9a08c0171080	52	-	1	False	2025-07-23 11:06:30.000000 UTC	N/A	Disabled
+4760	6140	msedge.exe	0x9a08c01e4080	18	-	1	False	2025-07-23 11:06:31.000000 UTC	N/A	Disabled
+5324	6140	msedge.exe	0x9a08c01e5080	14	-	1	False	2025-07-23 11:06:31.000000 UTC	N/A	Disabled
+4028	6140	msedge.exe	0x9a08c02540c0	7	-	1	False	2025-07-23 11:06:31.000000 UTC	N/A	Disabled
+7212	692	SkypeApp.exe	0x9a08c02ae080	16	-	1	False	2025-07-23 11:09:01.000000 UTC	N/A	Disabled
+3208	6140	msedge.exe	0x9a08c0315080	9	-	1	False	2025-07-23 11:06:31.000000 UTC	N/A	Disabled
+6836	6140	msedge.exe	0x9a08c037d0c0	15	-	1	False	2025-07-23 11:06:41.000000 UTC	N/A	Disabled
+6636	584	svchost.exe	0x9a08c038f240	3	-	0	False	2025-07-23 11:06:34.000000 UTC	N/A	Disabled
+7020	692	WinStore.App.e	0x9a08c0390080	14	-	1	False	2025-07-23 11:06:57.000000 UTC	N/A	Disabled
+6976	692	WmiPrvSE.exe	0x9a08c0395340	5	-	0	False	2025-07-23 11:08:57.000000 UTC	N/A	Disabled
+5480	692	dllhost.exe	0x9a08c03a6080	7	-	1	False	2025-07-23 11:08:45.000000 UTC	N/A	Disabled
+6264	584	svchost.exe	0x9a08c03c22c0	3	-	0	False	2025-07-23 11:07:10.000000 UTC	N/A	Disabled
+4404	584	svchost.exe	0x9a08c03c9080	14	-	0	False	2025-07-23 11:08:35.000000 UTC	N/A	Disabled
+6564	584	svchost.exe	0x9a08c03fc080	4	-	0	False	2025-07-23 11:06:33.000000 UTC	N/A	Disabled
+6472	6140	msedge.exe	0x9a08c0465080	14	-	1	False	2025-07-23 11:06:33.000000 UTC	N/A	Disabled
+9888	584	svchost.exe	0x9a08c08e60c0	3	-	1	False	2025-07-23 11:11:01.000000 UTC	N/A	Disabled
+8060	584	svchost.exe	0x9a08c08f32c0	4	-	0	False	2025-07-23 11:09:44.000000 UTC	N/A	Disabled
+8196	584	svchost.exe	0x9a08c09e2180	3	-	0	False	2025-07-23 11:09:20.000000 UTC	N/A	Disabled
+4376	2752	SearchFilterHo	0x9a08c09e9080	0	-	0	False	2025-07-23 11:13:36.000000 UTC	2025-07-23 11:16:04.000000 UTC	Disabled
+9380	584	svchost.exe	0x9a08c108a300	2	-	0	False	2025-07-23 11:10:02.000000 UTC	N/A	Disabled
+8776	6140	msedge.exe	0x9a08c108f080	0	-	1	False	2025-07-23 11:11:28.000000 UTC	2025-07-23 11:11:58.000000 UTC	Disabled
+8024	3892	FTK Imager.exe	0xc20000182080	18	-	1	False	2025-07-23 11:14:41.000000 UTC	N/A	Disabled

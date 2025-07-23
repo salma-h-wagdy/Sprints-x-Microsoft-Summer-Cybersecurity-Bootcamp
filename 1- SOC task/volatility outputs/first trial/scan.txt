@@ -1,0 +1,172 @@
+Volatility 3 Framework 2.26.2
+
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime	File output
+
+3120	1660	sihost.exe	0x9d00000440c0	8	-	1	False	2025-07-22 21:46:17.000000 UTC	N/A	Disabled
+2164	6852	msedgewebview2	0x9d0000045080	8	-	1	False	2025-07-22 22:06:25.000000 UTC	N/A	Disabled
+3148	572	svchost.exe	0x9d0000171080	9	-	1	False	2025-07-22 21:46:17.000000 UTC	N/A	Disabled
+1400	572	svchost.exe	0xc58f99662080	5	-	0	False	2025-07-22 21:46:10.000000 UTC	N/A	Disabled
+1384	572	svchost.exe	0xc58f99666080	3	-	0	False	2025-07-22 21:46:10.000000 UTC	N/A	Disabled
+1268	572	svchost.exe	0xc58f996682c0	7	-	0	False	2025-07-22 21:46:10.000000 UTC	N/A	Disabled
+4	0	System	0xc58f9967c040	101	-	N/A	False	2025-07-22 21:46:02.000000 UTC	N/A	Disabled
+1284	572	VBoxService.ex	0xc58f99684280	10	-	0	False	2025-07-22 21:46:10.000000 UTC	N/A	Disabled
+72	4	Registry	0xc58f997ac040	4	-	N/A	False	2025-07-22 21:46:00.000000 UTC	N/A	Disabled
+6068	256	msedge.exe	0xc58f99e452c0	0	-	1	False	2025-07-22 21:57:17.000000 UTC	2025-07-22 21:57:19.000000 UTC	Disabled
+6616	572	svchost.exe	0xc58f99e650c0	2	-	0	False	2025-07-22 21:58:19.000000 UTC	N/A	Disabled
+8536	1268	MicrosoftEdgeU	0xc58f99e66080	3	-	0	True	2025-07-22 23:26:10.000000 UTC	N/A	Disabled
+8460	3560	FTK Imager.exe	0xc58f99e6a080	14	-	1	False	2025-07-22 23:19:11.000000 UTC	N/A	Disabled
+312	4	smss.exe	0xc58f9c020040	2	-	N/A	False	2025-07-22 21:46:02.000000 UTC	N/A	Disabled
+5640	572	svchost.exe	0xc58f9c34b080	1	-	0	False	2025-07-22 21:57:58.000000 UTC	N/A	Disabled
+4192	716	UserOOBEBroker	0xc58f9c3ce080	1	-	1	False	2025-07-22 23:17:08.000000 UTC	N/A	Disabled
+6072	6148	msedge.exe	0xc58f9c3d2080	0	-	1	False	2025-07-22 21:57:11.000000 UTC	2025-07-22 21:57:13.000000 UTC	Disabled
+8604	6852	msedgewebview2	0xc58f9c47f080	17	-	1	False	2025-07-22 22:44:11.000000 UTC	N/A	Disabled
+7780	4724	msedge.exe	0xc58f9c5d90c0	16	-	1	False	2025-07-22 22:44:20.000000 UTC	N/A	Disabled
+3332	4724	msedge.exe	0xc58f9c5f9080	17	-	1	False	2025-07-22 22:44:06.000000 UTC	N/A	Disabled
+8396	4724	msedge.exe	0xc58f9c62d080	9	-	1	False	2025-07-22 22:44:06.000000 UTC	N/A	Disabled
+4136	4724	msedge.exe	0xc58f9c671080	15	-	1	False	2025-07-22 22:44:06.000000 UTC	N/A	Disabled
+9784	4724	msedge.exe	0xc58f9c680080	11	-	1	False	2025-07-22 22:47:07.000000 UTC	N/A	Disabled
+8492	4724	msedge.exe	0xc58f9c74b080	7	-	1	False	2025-07-22 22:44:06.000000 UTC	N/A	Disabled
+10052	716	RuntimeBroker.	0xc58f9c8c2080	0	-	1	False	2025-07-22 23:13:07.000000 UTC	2025-07-22 23:14:20.000000 UTC	Disabled
+7712	4724	msedge.exe	0xc58f9c8ef080	11	-	1	False	2025-07-22 22:47:06.000000 UTC	N/A	Disabled
+5212	716	SkypeBackgroun	0xc58f9c9a5080	4	-	1	False	2025-07-22 21:55:27.000000 UTC	N/A	Disabled
+3716	5168	msedge.exe	0xc58f9ca7b080	0	-	1	False	2025-07-22 22:02:05.000000 UTC	2025-07-22 22:02:05.000000 UTC	Disabled
+1948	6852	msedgewebview2	0xc58f9ca9a2c0	9	-	1	False	2025-07-22 22:06:25.000000 UTC	N/A	Disabled
+4976	4232	msedge.exe	0xc58f9ccf5080	0	-	1	False	2025-07-22 21:59:12.000000 UTC	2025-07-22 21:59:13.000000 UTC	Disabled
+7480	572	svchost.exe	0xc58f9cd9d240	0	-	0	False	2025-07-22 22:35:04.000000 UTC	2025-07-22 22:35:13.000000 UTC	Disabled
+5016	572	svchost.exe	0xc58f9cef4080	3	-	0	False	2025-07-22 22:03:45.000000 UTC	N/A	Disabled
+5360	256	msedge.exe	0xc58f9cf79080	0	-	1	False	2025-07-22 21:57:17.000000 UTC	2025-07-22 21:57:19.000000 UTC	Disabled
+412	400	csrss.exe	0xc58f9f208080	9	-	0	False	2025-07-22 21:46:06.000000 UTC	N/A	Disabled
+7956	572	svchost.exe	0xc58f9f3e0080	5	-	0	False	2025-07-22 22:35:05.000000 UTC	N/A	Disabled
+7636	716	SystemSettings	0xc58f9f3e3080	20	-	1	False	2025-07-22 23:17:06.000000 UTC	N/A	Disabled
+700	548	fontdrvhost.ex	0xc58f9fac7140	5	-	1	False	2025-07-22 21:46:08.000000 UTC	N/A	Disabled
+480	400	wininit.exe	0xc58f9fba1080	1	-	0	False	2025-07-22 21:46:07.000000 UTC	N/A	Disabled
+488	472	csrss.exe	0xc58f9fbba140	11	-	1	False	2025-07-22 21:46:07.000000 UTC	N/A	Disabled
+708	480	fontdrvhost.ex	0xc58f9fc88080	5	-	0	False	2025-07-22 21:46:08.000000 UTC	N/A	Disabled
+716	572	svchost.exe	0xc58f9fc8a240	10	-	0	False	2025-07-22 21:46:08.000000 UTC	N/A	Disabled
+548	472	winlogon.exe	0xc58f9fcec080	4	-	1	False	2025-07-22 21:46:07.000000 UTC	N/A	Disabled
+572	480	services.exe	0xc58f9fcee080	6	-	0	False	2025-07-22 21:46:07.000000 UTC	N/A	Disabled
+580	480	lsass.exe	0xc58f9fcf1080	8	-	0	False	2025-07-22 21:46:07.000000 UTC	N/A	Disabled
+800	572	svchost.exe	0xc58f9fd8f2c0	9	-	0	False	2025-07-22 21:46:08.000000 UTC	N/A	Disabled
+856	572	svchost.exe	0xc58f9fde7240	5	-	0	False	2025-07-22 21:46:08.000000 UTC	N/A	Disabled
+908	548	dwm.exe	0xc58fa0427080	16	-	1	False	2025-07-22 21:46:08.000000 UTC	N/A	Disabled
+4812	716	TextInputHost.	0xc58fa0428080	11	-	1	False	2025-07-22 21:46:25.000000 UTC	N/A	Disabled
+5648	572	svchost.exe	0xc58fa0451080	4	-	0	False	2025-07-22 21:59:39.000000 UTC	N/A	Disabled
+2880	4232	msedge.exe	0xc58fa0456080	0	-	1	False	2025-07-22 21:59:12.000000 UTC	2025-07-22 21:59:13.000000 UTC	Disabled
+4860	256	msedge.exe	0xc58fa04572c0	0	-	1	False	2025-07-22 21:57:17.000000 UTC	2025-07-22 21:57:19.000000 UTC	Disabled
+1012	572	svchost.exe	0xc58fa04c92c0	3	-	0	False	2025-07-22 21:46:09.000000 UTC	N/A	Disabled
+6840	716	dllhost.exe	0xc58fa0503080	5	-	1	False	2025-07-22 21:57:08.000000 UTC	N/A	Disabled
+324	2868	SearchProtocol	0xc58fa0528080	0	-	0	False	2025-07-22 23:24:01.000000 UTC	2025-07-22 23:26:18.000000 UTC	Disabled
+2204	572	svchost.exe	0xc58fa05a4300	3	-	0	False	2025-07-22 21:59:39.000000 UTC	N/A	Disabled
+372	572	svchost.exe	0xc58fa05a6280	2	-	0	False	2025-07-22 21:46:09.000000 UTC	N/A	Disabled
+336	572	svchost.exe	0xc58fa05a8300	2	-	0	False	2025-07-22 21:46:09.000000 UTC	N/A	Disabled
+1068	572	svchost.exe	0xc58fa0705300	2	-	0	False	2025-07-22 21:46:09.000000 UTC	N/A	Disabled
+1080	572	svchost.exe	0xc58fa074a300	6	-	0	False	2025-07-22 21:46:09.000000 UTC	N/A	Disabled
+1124	572	svchost.exe	0xc58fa080d2c0	2	-	0	False	2025-07-22 21:46:10.000000 UTC	N/A	Disabled
+1144	572	svchost.exe	0xc58fa080e080	3	-	0	False	2025-07-22 21:46:10.000000 UTC	N/A	Disabled
+1176	572	svchost.exe	0xc58fa0812300	4	-	0	False	2025-07-22 21:46:10.000000 UTC	N/A	Disabled
+1044	572	svchost.exe	0xc58fa081e080	1	-	1	False	2025-07-22 22:19:29.000000 UTC	N/A	Disabled
+1164	716	dllhost.exe	0xc58fa0824080	2	-	1	False	2025-07-22 22:34:59.000000 UTC	N/A	Disabled
+1412	572	svchost.exe	0xc58fa0881080	5	-	0	False	2025-07-22 21:46:10.000000 UTC	N/A	Disabled
+1440	572	svchost.exe	0xc58fa09450c0	4	-	0	False	2025-07-22 21:46:10.000000 UTC	N/A	Disabled
+1480	572	svchost.exe	0xc58fa094e240	3	-	0	False	2025-07-22 21:46:11.000000 UTC	N/A	Disabled
+8072	716	RuntimeBroker.	0xc58fa09ac080	0	-	1	False	2025-07-22 23:13:07.000000 UTC	2025-07-22 23:13:49.000000 UTC	Disabled
+1556	572	svchost.exe	0xc58fa09b22c0	5	-	0	False	2025-07-22 21:46:11.000000 UTC	N/A	Disabled
+1596	4	MemCompression	0xc58fa09cf080	74	-	N/A	False	2025-07-22 21:46:11.000000 UTC	N/A	Disabled
+1716	572	svchost.exe	0xc58fa09e3080	3	-	0	False	2025-07-22 21:46:11.000000 UTC	N/A	Disabled
+1620	572	svchost.exe	0xc58fa0a1a240	2	-	0	False	2025-07-22 21:46:11.000000 UTC	N/A	Disabled
+1628	572	svchost.exe	0xc58fa0a1c2c0	7	-	0	False	2025-07-22 21:46:11.000000 UTC	N/A	Disabled
+1660	572	svchost.exe	0xc58fa0a20240	7	-	0	False	2025-07-22 21:46:11.000000 UTC	N/A	Disabled
+1880	572	svchost.exe	0xc58fa0bed080	7	-	0	False	2025-07-22 21:46:12.000000 UTC	N/A	Disabled
+1832	572	svchost.exe	0xc58fa0c15300	2	-	0	False	2025-07-22 21:46:12.000000 UTC	N/A	Disabled
+2036	572	svchost.exe	0xc58fa0d3f2c0	9	-	0	False	2025-07-22 21:46:13.000000 UTC	N/A	Disabled
+1468	572	svchost.exe	0xc58fa0d42240	3	-	0	False	2025-07-22 21:46:13.000000 UTC	N/A	Disabled
+1516	572	svchost.exe	0xc58fa0d7f2c0	3	-	0	False	2025-07-22 21:46:13.000000 UTC	N/A	Disabled
+1748	572	svchost.exe	0xc58fa0d80080	4	-	0	False	2025-07-22 21:46:13.000000 UTC	N/A	Disabled
+1428	572	svchost.exe	0xc58fa0da4240	4	-	0	False	2025-07-22 21:46:13.000000 UTC	N/A	Disabled
+9372	716	dllhost.exe	0xc58fa0db9080	0	-	1	False	2025-07-22 23:24:57.000000 UTC	2025-07-22 23:25:03.000000 UTC	Disabled
+2152	572	spoolsv.exe	0xc58fa0de0200	6	-	0	False	2025-07-22 21:46:13.000000 UTC	N/A	Disabled
+2192	572	svchost.exe	0xc58fa0de22c0	11	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+2208	572	svchost.exe	0xc58fa0e3e2c0	5	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+2436	572	svchost.exe	0xc58fa0f7e2c0	5	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+2444	572	svchost.exe	0xc58fa0f7f080	9	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+2460	572	svchost.exe	0xc58fa0f822c0	12	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+2472	572	svchost.exe	0xc58fa0f89240	10	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+2488	572	svchost.exe	0xc58fa0f8a080	5	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+2536	572	svchost.exe	0xc58fa0faf240	3	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+2576	572	MsMpEng.exe	0xc58fa0fc1240	8	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+2600	572	svchost.exe	0xc58fa0fc2080	5	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+2628	572	svchost.exe	0xc58fa0feb240	5	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+2652	572	svchost.exe	0xc58fa0fed2c0	3	-	0	False	2025-07-22 21:46:14.000000 UTC	N/A	Disabled
+3120	1660	sihost.exe	0xc58fa10770c0	8	-	1	False	2025-07-22 21:46:17.000000 UTC	N/A	Disabled
+2164	6852	msedgewebview2	0xc58fa1078080	8	-	1	False	2025-07-22 22:06:25.000000 UTC	N/A	Disabled
+3148	572	svchost.exe	0xc58fa10d7080	9	-	1	False	2025-07-22 21:46:17.000000 UTC	N/A	Disabled
+2860	572	svchost.exe	0xc58fa11d42c0	5	-	0	False	2025-07-22 21:46:15.000000 UTC	N/A	Disabled
+2868	572	SearchIndexer.	0xc58fa11e3240	15	-	0	False	2025-07-22 21:46:15.000000 UTC	N/A	Disabled
+6932	2868	SearchFilterHo	0xc58fa1304080	7	-	0	False	2025-07-22 23:24:01.000000 UTC	N/A	Disabled
+764	5168	msedge.exe	0xc58fa13392c0	0	-	1	False	2025-07-22 22:02:05.000000 UTC	2025-07-22 22:02:05.000000 UTC	Disabled
+7036	716	explorer.exe	0xc58fa1342080	7	-	1	False	2025-07-22 22:34:57.000000 UTC	N/A	Disabled
+6172	5168	msedge.exe	0xc58fa138a2c0	0	-	1	False	2025-07-22 22:02:05.000000 UTC	2025-07-22 22:02:05.000000 UTC	Disabled
+3172	572	svchost.exe	0xc58fa138b300	3	-	1	False	2025-07-22 21:46:17.000000 UTC	N/A	Disabled
+3260	1268	taskhostw.exe	0xc58fa138e300	6	-	1	False	2025-07-22 21:46:17.000000 UTC	N/A	Disabled
+3288	572	svchost.exe	0xc58fa1415240	3	-	0	False	2025-07-22 21:46:17.000000 UTC	N/A	Disabled
+3308	1268	MicrosoftEdgeU	0xc58fa1417300	4	-	0	True	2025-07-22 21:46:17.000000 UTC	N/A	Disabled
+1352	572	svchost.exe	0xc58fa14a02c0	2	-	0	False	2025-07-22 21:49:13.000000 UTC	N/A	Disabled
+3456	572	svchost.exe	0xc58fa14d02c0	8	-	0	False	2025-07-22 21:46:18.000000 UTC	N/A	Disabled
+1676	6852	msedgewebview2	0xc58fa14f0340	22	-	1	False	2025-07-22 22:06:25.000000 UTC	N/A	Disabled
+3536	548	userinit.exe	0xc58fa14f2340	0	-	1	False	2025-07-22 21:46:18.000000 UTC	2025-07-22 21:46:42.000000 UTC	Disabled
+3560	3536	explorer.exe	0xc58fa1547340	108	-	1	False	2025-07-22 21:46:18.000000 UTC	N/A	Disabled
+3740	572	svchost.exe	0xc58fa15b7300	5	-	1	False	2025-07-22 21:46:19.000000 UTC	N/A	Disabled
+3880	716	ApplicationFra	0xc58fa15c0080	4	-	1	False	2025-07-22 21:47:06.000000 UTC	N/A	Disabled
+4028	716	dllhost.exe	0xc58fa16df380	6	-	1	False	2025-07-22 21:46:22.000000 UTC	N/A	Disabled
+3632	716	StartMenuExper	0xc58fa1731080	8	-	1	False	2025-07-22 21:46:22.000000 UTC	N/A	Disabled
+4764	716	ShellExperienc	0xc58fa17d0080	23	-	1	False	2025-07-22 21:59:39.000000 UTC	N/A	Disabled
+3736	716	RuntimeBroker.	0xc58fa17f82c0	2	-	1	False	2025-07-22 21:46:22.000000 UTC	N/A	Disabled
+4168	716	SearchApp.exe	0xc58fa186d080	57	-	1	False	2025-07-22 21:46:23.000000 UTC	N/A	Disabled
+6192	6852	msedgewebview2	0xc58fa1872080	19	-	1	False	2025-07-22 22:06:25.000000 UTC	N/A	Disabled
+9100	3560	WinRAR.exe	0xc58fa189d080	2	-	1	False	2025-07-22 23:10:29.000000 UTC	N/A	Disabled
+1724	572	svchost.exe	0xc58fa18c20c0	10	-	0	False	2025-07-22 21:57:15.000000 UTC	N/A	Disabled
+5916	716	SearchApp.exe	0xc58fa18ec0c0	16	-	1	False	2025-07-22 22:06:24.000000 UTC	N/A	Disabled
+4912	716	RuntimeBroker.	0xc58fa18f52c0	3	-	1	False	2025-07-22 21:55:24.000000 UTC	N/A	Disabled
+6852	5916	msedgewebview2	0xc58fa18f6080	47	-	1	False	2025-07-22 22:06:25.000000 UTC	N/A	Disabled
+4296	572	svchost.exe	0xc58fa19d2280	3	-	0	False	2025-07-22 21:46:23.000000 UTC	N/A	Disabled
+4332	4296	ctfmon.exe	0xc58fa19d8280	8	-	1	False	2025-07-22 21:46:23.000000 UTC	N/A	Disabled
+944	3560	Wireshark.exe	0xc58fa19f0380	7	-	1	False	2025-07-22 23:17:47.000000 UTC	N/A	Disabled
+4384	716	RuntimeBroker.	0xc58fa1a6a2c0	11	-	1	False	2025-07-22 21:46:23.000000 UTC	N/A	Disabled
+1216	3560	notepad.exe	0xc58fa1a72340	2	-	1	False	2025-07-22 22:13:29.000000 UTC	N/A	Disabled
+5832	3560	OneDrive.exe	0xc58fa1a880c0	25	-	1	True	2025-07-22 21:46:36.000000 UTC	N/A	Disabled
+4092	572	svchost.exe	0xc58fa1a95080	8	-	0	False	2025-07-22 21:49:55.000000 UTC	N/A	Disabled
+4696	716	SkypeApp.exe	0xc58fa1b24300	44	-	1	False	2025-07-22 21:55:24.000000 UTC	N/A	Disabled
+1840	572	svchost.exe	0xc58fa1bce080	2	-	0	False	2025-07-22 21:57:10.000000 UTC	N/A	Disabled
+5488	572	svchost.exe	0xc58fa1bee080	6	-	0	False	2025-07-22 21:48:24.000000 UTC	N/A	Disabled
+6560	572	svchost.exe	0xc58fa1c0b340	12	-	0	False	2025-07-22 21:57:59.000000 UTC	N/A	Disabled
+2556	572	svchost.exe	0xc58fa1e25300	3	-	0	False	2025-07-22 21:59:39.000000 UTC	N/A	Disabled
+3616	572	svchost.exe	0xc58fa1e41080	5	-	0	False	2025-07-22 21:46:28.000000 UTC	N/A	Disabled
+2116	572	svchost.exe	0xc58fa1e4e080	2	-	0	False	2025-07-22 22:12:01.000000 UTC	N/A	Disabled
+6388	4232	msedge.exe	0xc58fa1e4f340	0	-	1	False	2025-07-22 21:59:12.000000 UTC	2025-07-22 21:59:13.000000 UTC	Disabled
+4988	716	RuntimeBroker.	0xc58fa1e93080	7	-	1	False	2025-07-22 21:59:40.000000 UTC	N/A	Disabled
+4584	572	svchost.exe	0xc58fa1f0a080	8	-	0	False	2025-07-22 21:48:24.000000 UTC	N/A	Disabled
+4496	1780	msedge.exe	0xc58fa1f16080	0	-	1	False	2025-07-22 22:03:38.000000 UTC	2025-07-22 22:03:38.000000 UTC	Disabled
+5744	3560	VBoxTray.exe	0xc58fa1f26080	11	-	1	False	2025-07-22 21:46:35.000000 UTC	N/A	Disabled
+5540	716	RuntimeBroker.	0xc58fa1f2c080	2	-	1	False	2025-07-22 21:46:32.000000 UTC	N/A	Disabled
+5256	572	svchost.exe	0xc58fa1f2d240	3	-	0	False	2025-07-22 21:46:29.000000 UTC	N/A	Disabled
+1004	3560	WinRAR.exe	0xc58fa1f3b080	2	-	1	False	2025-07-22 23:09:23.000000 UTC	N/A	Disabled
+4312	572	svchost.exe	0xc58fa1f41080	1	-	0	False	2025-07-22 21:48:22.000000 UTC	N/A	Disabled
+4828	572	SgrmBroker.exe	0xc58fa1f6d080	7	-	0	False	2025-07-22 21:48:23.000000 UTC	N/A	Disabled
+2744	1780	msedge.exe	0xc58fa1f6f080	0	-	1	False	2025-07-22 22:03:38.000000 UTC	2025-07-22 22:03:38.000000 UTC	Disabled
+4232	1780	msedge.exe	0xc58fa1f75080	0	-	1	False	2025-07-22 22:03:38.000000 UTC	2025-07-22 22:03:38.000000 UTC	Disabled
+5304	572	svchost.exe	0xc58fa1f79080	1	-	0	False	2025-07-22 21:48:23.000000 UTC	N/A	Disabled
+3376	572	svchost.exe	0xc58fa1f7a080	2	-	0	False	2025-07-22 21:53:15.000000 UTC	N/A	Disabled
+1432	572	svchost.exe	0xc58fa1f86080	1	-	1	False	2025-07-22 21:48:18.000000 UTC	N/A	Disabled
+5632	3560	SecurityHealth	0xc58fa1fb3180	1	-	1	False	2025-07-22 21:46:35.000000 UTC	N/A	Disabled
+5664	572	SecurityHealth	0xc58fa1fb5240	6	-	0	False	2025-07-22 21:46:35.000000 UTC	N/A	Disabled
+5020	716	dllhost.exe	0xc58fa24d4080	2	-	1	False	2025-07-22 22:29:23.000000 UTC	N/A	Disabled
+7024	572	svchost.exe	0xc58fa25da080	4	-	0	False	2025-07-22 22:10:37.000000 UTC	N/A	Disabled
+4592	572	svchost.exe	0xc58fa27cb240	4	-	0	False	2025-07-22 22:19:30.000000 UTC	N/A	Disabled
+1924	716	SystemSettings	0xc58fa2b26080	1	-	1	False	2025-07-22 22:19:29.000000 UTC	N/A	Disabled
+9144	2036	audiodg.exe	0xc58fa4102300	6	-	0	False	2025-07-22 23:04:51.000000 UTC	N/A	Disabled
+8868	4724	msedge.exe	0xc58fa4108080	15	-	1	False	2025-07-22 22:44:20.000000 UTC	N/A	Disabled
+9760	3560	WinRAR.exe	0xc58fa418d080	2	-	1	False	2025-07-22 23:11:10.000000 UTC	N/A	Disabled
+3992	716	backgroundTask	0xc58fa4191080	0	-	1	False	2025-07-22 23:13:08.000000 UTC	2025-07-22 23:14:20.000000 UTC	Disabled
+4724	2404	msedge.exe	0xc58fb58d3080	52	-	1	False	2025-07-22 22:44:06.000000 UTC	N/A	Disabled
+3544	572	svchost.exe	0xc58fb58d9080	0	-	0	False	2025-07-22 23:13:06.000000 UTC	2025-07-22 23:18:40.000000 UTC	Disabled
+8208	716	backgroundTask	0xc58fb58e9080	0	-	1	False	2025-07-22 23:13:40.000000 UTC	2025-07-22 23:13:40.000000 UTC	Disabled

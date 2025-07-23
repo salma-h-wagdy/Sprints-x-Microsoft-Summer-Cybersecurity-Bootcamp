@@ -1,0 +1,144 @@
+4a5
+> 1312	584	svchost.exe	0x9a08b7882080	4	-	0	False	2025-07-23
+6a8,10
+> 8940	584	svchost.exe	0x9a08ba05c080	3	-	0	False	2025-07-23
+> 7064	584	svchost.exe	0x9a08ba2682c0	5	-	0	False	2025-07-23
+> 952	692	dllhost.exe	0x9a08ba598080	0	-	1	False	2025-07-23
+7a12,24
+> 9756	2752	SearchProtocol	0x9a08ba77d080	0	-	1	False	2025-07-23
+> 8912	692	RuntimeBroker.	0x9a08ba7852c0	8	-	1	False	2025-07-23
+> 8816	692	ShellExperienc	0x9a08ba786080	39	-	1	False	2025-07-23
+> 9144	692	WmiPrvSE.exe	0x9a08baf3a080	10	-	0	False	2025-07-23
+> 8256	3892	FTK
+> 6296	6760	cmd.exe	0x9a08baff6080	0	-	1	False	2025-07-23
+> 3788	692	SystemSettings	0x9a08bd4530c0	5	-	1	False	2025-07-23
+> 7412	2428	MpCmdRun.exe	0x9a08bd6a90c0	9	-	0	False	2025-07-23
+> 8372	1756	audiodg.exe	0x9a08bd6c92c0	2	-	0	False	2025-07-23
+> 9000	584	sppsvc.exe	0x9a08bd6f0080	10	-	0	False	2025-07-23
+> 2552	4660	conhost.exe	0x9a08bd726080	0	-	0	False	2025-07-23
+> 3276	584	svchost.exe	0x9a08bd72c240	0	-	0	False	2025-07-23
+> 592	492	lsass.exe	0x9a08bd84e080	9	-	0	False	2025-07-23
+8a26,27
+> 1340	3892	WinRAR.exe	0x9a08bd9b80c0	4	-	1	False	2025-07-23
+> 7724	692	RuntimeBroker.	0x9a08bd9e82c0	4	-	1	False	2025-07-23
+10a30
+> 7028	692	ApplicationFra	0x9a08be1dd080	6	-	1	False	2025-07-23
+13d32
+< 592	492	lsass.exe	0x9a08bd84e080	9	-	0	False	2025-07-23
+18a38
+> 3904	692	TextInputHost.	0x9a08be98b080	11	-	1	False	2025-07-23
+31d50
+< 1312	584	svchost.exe	0x9a08b7882080	4	-	0	False	2025-07-23
+33,34d51
+< 1436	584	VBoxService.ex	0x9a08bebb5200	11	-	0	False	2025-07-23
+< 1492	584	svchost.exe	0x9a08bebd62c0	7	-	0	False	2025-07-23
+36a54,55
+> 1436	584	VBoxService.ex	0x9a08bebb5200	11	-	0	False	2025-07-23
+> 1492	584	svchost.exe	0x9a08bebd62c0	7	-	0	False	2025-07-23
+52d70
+< 2172	584	svchost.exe	0x9a08bee81240	26	-	0	False	2025-07-23
+53a72
+> 2172	584	svchost.exe	0x9a08bee81240	26	-	0	False	2025-07-23
+61d79
+< 2404	584	svchost.exe	0x9a08bef822c0	2	-	0	False	2025-07-23
+63c81
+< 2428	584	MsMpEng.exe	0x9a08bef870c0	12	-	0	False	2025-07-23
+---
+> 2404	584	svchost.exe	0x9a08bef822c0	2	-	0	False	2025-07-23
+64a83
+> 2428	584	MsMpEng.exe	0x9a08bef870c0	12	-	0	False	2025-07-23
+69d87
+< 3240	584	svchost.exe	0x9a08bf378340	7	-	0	False	2025-07-23
+70a89,90
+> 3240	584	svchost.exe	0x9a08bf378340	7	-	0	False	2025-07-23
+> 6712	584	SgrmBroker.exe	0x9a08bf3e7080	7	-	0	False	2025-07-23
+80a101
+> 7104	584	svchost.exe	0x9a08bf6d8300	7	-	0	False	2025-07-23
+81a103
+> 5768	692	smartscreen.ex	0x9a08bf84c080	7	-	1	False	2025-07-23
+83d104
+< 4272	692	RuntimeBroker.	0x9a08bf99a2c0	3	-	1	False	2025-07-23
+84a106,107
+> 4272	692	RuntimeBroker.	0x9a08bf99a2c0	3	-	1	False	2025-07-23
+> 956	584	svchost.exe	0x9a08bfa3c080	11	-	0	False	2025-07-23
+86a110,112
+> 8024	3892	FTK
+> 5912	3892	VBoxTray.exe	0x9a08bfc47080	13	-	1	False	2025-07-23
+> 5836	584	SecurityHealth	0x9a08bfc48240	11	-	0	False	2025-07-23
+89c115,116
+< 3184	584	svchost.exe	0x9a08bfdad2c0	6	-	0	False	2025-07-23
+---
+> 4268	2752	SearchProtocol	0x9a08bfd17080	5	-	0	False	2025-07-23
+> 3496	584	svchost.exe	0x9a08bfd1f080	8	-	0	False	2025-07-23
+91c118
+< 5368	584	svchost.exe	0x9a08bfec22c0	9	-	0	False	2025-07-23
+---
+> 3184	584	svchost.exe	0x9a08bfdad2c0	6	-	0	False	2025-07-23
+93,96c120
+< 5768	692	smartscreen.ex	0x9a08bf84c080	7	-	1	False	2025-07-23
+< 5808	3892	SecurityHealth	0x9a08bfeca240	3	-	1	False	2025-07-23
+< 5836	584	SecurityHealth	0x9a08bfc48240	11	-	0	False	2025-07-23
+< 5912	3892	VBoxTray.exe	0x9a08bfc47080	13	-	1	False	2025-07-23
+---
+> 5368	584	svchost.exe	0x9a08bfec22c0	9	-	0	False	2025-07-23
+97a122,126
+> 5808	3892	SecurityHealth	0x9a08bfeca240	3	-	1	False	2025-07-23
+> 6764	692	RuntimeBroker.	0x9a08bff21080	1	-	1	False	2025-07-23
+> 5376	584	svchost.exe	0x9a08c0158080	7	-	0	False	2025-07-23
+> 2192	584	svchost.exe	0x9a08c015a080	9	-	0	False	2025-07-23
+> 5844	584	svchost.exe	0x9a08c015b080	1	-	1	False	2025-07-23
+99d127
+< 4028	6140	msedge.exe	0x9a08c02540c0	7	-	1	False	2025-07-23
+101a130,131
+> 4028	6140	msedge.exe	0x9a08c02540c0	7	-	1	False	2025-07-23
+> 7212	692	SkypeApp.exe	0x9a08c02ae080	16	-	1	False	2025-07-23
+103,105d132
+< 6472	6140	msedge.exe	0x9a08c0465080	14	-	1	False	2025-07-23
+< 6564	584	svchost.exe	0x9a08c03fc080	4	-	0	False	2025-07-23
+< 6636	584	svchost.exe	0x9a08c038f240	3	-	0	False	2025-07-23
+106a134
+> 6636	584	svchost.exe	0x9a08c038f240	3	-	0	False	2025-07-23
+108,110c136,137
+< 7028	692	ApplicationFra	0x9a08be1dd080	6	-	1	False	2025-07-23
+< 6764	692	RuntimeBroker.	0x9a08bff21080	1	-	1	False	2025-07-23
+< 3496	584	svchost.exe	0x9a08bfd1f080	8	-	0	False	2025-07-23
+---
+> 6976	692	WmiPrvSE.exe	0x9a08c0395340	5	-	0	False	2025-07-23
+> 5480	692	dllhost.exe	0x9a08c03a6080	7	-	1	False	2025-07-23
+112,116d138
+< 2192	584	svchost.exe	0x9a08c015a080	9	-	0	False	2025-07-23
+< 6712	584	SgrmBroker.exe	0x9a08bf3e7080	7	-	0	False	2025-07-23
+< 5376	584	svchost.exe	0x9a08c0158080	7	-	0	False	2025-07-23
+< 5844	584	svchost.exe	0x9a08c015b080	1	-	1	False	2025-07-23
+< 4268	2752	SearchProtocol	0x9a08bfd17080	5	-	0	False	2025-07-23
+118,130c140,142
+< 956	584	svchost.exe	0x9a08bfa3c080	11	-	0	False	2025-07-23
+< 7104	584	svchost.exe	0x9a08bf6d8300	7	-	0	False	2025-07-23
+< 3904	692	TextInputHost.	0x9a08be98b080	11	-	1	False	2025-07-23
+< 5480	692	dllhost.exe	0x9a08c03a6080	7	-	1	False	2025-07-23
+< 6976	692	WmiPrvSE.exe	0x9a08c0395340	5	-	0	False	2025-07-23
+< 3276	584	svchost.exe	0x9a08bd72c240	0	-	0	False	2025-07-23
+< 7212	692	SkypeApp.exe	0x9a08c02ae080	16	-	1	False	2025-07-23
+< 7724	692	RuntimeBroker.	0x9a08bd9e82c0	4	-	1	False	2025-07-23
+< 7064	584	svchost.exe	0x9a08ba2682c0	5	-	0	False	2025-07-23
+< 8196	584	svchost.exe	0x9a08c09e2180	3	-	0	False	2025-07-23
+< 8372	1756	audiodg.exe	0x9a08bd6c92c0	2	-	0	False	2025-07-23
+< 8816	692	ShellExperienc	0x9a08ba786080	39	-	1	False	2025-07-23
+< 8912	692	RuntimeBroker.	0x9a08ba7852c0	8	-	1	False	2025-07-23
+---
+> 6564	584	svchost.exe	0x9a08c03fc080	4	-	0	False	2025-07-23
+> 6472	6140	msedge.exe	0x9a08c0465080	14	-	1	False	2025-07-23
+> 9888	584	svchost.exe	0x9a08c08e60c0	3	-	1	False	2025-07-23
+131a144,145
+> 8196	584	svchost.exe	0x9a08c09e2180	3	-	0	False	2025-07-23
+> 4376	2752	SearchFilterHo	0x9a08c09e9080	0	-	0	False	2025-07-23
+133,136c147
+< 8940	584	svchost.exe	0x9a08ba05c080	3	-	0	False	2025-07-23
+< 9888	584	svchost.exe	0x9a08c08e60c0	3	-	1	False	2025-07-23
+< 3788	692	SystemSettings	0x9a08bd4530c0	5	-	1	False	2025-07-23
+< 1340	3892	WinRAR.exe	0x9a08bd9b80c0	4	-	1	False	2025-07-23
+---
+> 8776	6140	msedge.exe	0x9a08c108f080	0	-	1	False	2025-07-23
+138,139d148
+< 9144	692	WmiPrvSE.exe	0x9a08baf3a080	10	-	0	False	2025-07-23
+< 172051	172051	ߘ�����@	0x9a08c03dd080	16387	-	-	True	2025-07-23

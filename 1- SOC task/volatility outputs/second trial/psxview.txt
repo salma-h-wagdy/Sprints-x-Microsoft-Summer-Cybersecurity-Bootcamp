@@ -1,0 +1,148 @@
+Volatility 3 Framework 2.26.2
+
+Offset(Virtual)	Name	PID	pslist	psscan	thrdscan	csrss	Exit Time
+
+0x9a08bebb5200	VBoxService.ex	1436	True	True	True	True	
+0x9a08bedca200	spoolsv.exe	2040	True	True	True	True	
+0x9a08bf095200	svchost.exe	2740	True	True	True	True	
+0x9a08bef83080	svchost.exe	2444	True	True	True	True	
+0x9a08bf7b3080	svchost.exe	4080	True	True	True	True	
+0x9a08bfacb080	svchost.exe	4540	True	True	True	True	
+0x9a08bfc47080	VBoxTray.exe	5912	True	True	True	True	
+0x9a08bfd1f080	svchost.exe	3496	True	True	True	True	
+0x9a08bf3e7080	SgrmBroker.exe	6712	True	True	True	True	
+0x9a08c015b080	svchost.exe	5844	True	True	True	True	
+0x9a08bfd17080	SearchProtocol	4268	True	True	True	False	
+0x9a08be98b080	TextInputHost.	3904	True	True	True	True	
+0x9a08ba05c080	svchost.exe	8940	True	True	True	True	
+0x9a08bf633280	svchost.exe	3628	True	True	True	True	
+0x9a08c108a300	svchost.exe	9380	True	True	True	True	
+0x9a08c03c9080	svchost.exe	4404	True	True	True	True	
+0x9a08becda240	svchost.exe	1820	True	True	True	True	
+0x9a08befdb240	svchost.exe	2584	True	True	True	True	
+0x9a08beebe240	svchost.exe	2260	True	True	True	True	
+0x9a08bed40240	svchost.exe	1936	True	True	True	True	
+0x9a08bee81240	svchost.exe	2172	True	True	True	True	
+0x9a08bef81240	svchost.exe	2420	True	True	True	True	
+0x9a08bef25240	svchost.exe	2356	True	True	True	True	
+0x9a08b7955040	Registry	72	True	True	True	False	
+0x9a08ba5b2040	smss.exe	320	True	True	True	False	
+0x9a08be88e240	svchost.exe	692	True	True	True	True	
+0x9a08c037d0c0	msedge.exe	6836	True	True	True	True	
+0x9a08bd6a90c0	MpCmdRun.exe	7412	False	True	True	True	
+0x9a08be962240	svchost.exe	864	True	True	True	True	
+0x9a08bf60a240	svchost.exe	3520	True	True	True	True	
+0x9a08bfeca240	SecurityHealth	5808	True	True	True	True	
+0x9a08c108f080	msedge.exe	8776	False	True	False	False	2025-07-23 11:11:58+00:00
+0x9a08beb292c0	svchost.exe	1228	True	True	True	True	
+0x9a08beb2d2c0	svchost.exe	1372	True	True	True	True	
+0x9a08bebdd2c0	svchost.exe	1560	True	True	True	True	
+0x9a08bec592c0	svchost.exe	1656	True	True	True	True	
+0x9a08bf6912c0	svchost.exe	3780	True	True	True	True	
+0x9a08bfdad2c0	svchost.exe	3184	True	True	True	True	
+0x9a08bfec52c0	OneDrive.exe	5976	True	True	True	True	
+0x9a08c038f240	svchost.exe	6636	True	True	True	True	
+0x9a08bd6c92c0	audiodg.exe	8372	True	True	True	True	
+0x9a08ba7852c0	RuntimeBroker.	8912	True	True	True	True	
+0x9a08bd6f0080	sppsvc.exe	9000	False	True	True	True	
+0x9a08b7883080	System	4	True	True	True	False	
+0x9a08be16e080	wininit.exe	492	True	True	True	True	
+0x9a08be1e5080	winlogon.exe	560	True	True	True	True	
+0x9a08be805080	services.exe	584	True	True	True	True	
+0x9a08bd84e080	lsass.exe	592	True	True	True	True	
+0x9a08be98e080	dwm.exe	924	True	True	True	True	
+0x9a08bea50280	svchost.exe	712	True	True	True	True	
+0x9a08b7882080	svchost.exe	1312	True	True	True	True	
+0x9a08bebb3080	svchost.exe	1520	True	True	True	True	
+0x9a08beec2080	svchost.exe	2280	True	True	True	True	
+0x9a08bfcb0080	SkypeBackgroun	4876	True	True	True	True	
+0x9a08bf84c080	smartscreen.ex	5768	True	True	True	True	
+0x9a08c01e4080	msedge.exe	4760	True	True	True	True	
+0x9a08c03fc080	svchost.exe	6564	True	True	True	True	
+0x9a08c0390080	WinStore.App.e	7020	True	True	True	True	
+0x9a08be1dd080	ApplicationFra	7028	True	True	True	True	
+0x9a08bec44280	svchost.exe	1644	True	True	True	True	
+0x9a08bf648280	ctfmon.exe	3680	True	True	True	True	
+0x9a08bf617300	MicrosoftEdgeU	3572	True	True	True	True	
+0x9a08c0465080	msedge.exe	6472	True	True	True	True	
+0x9a08c09e9080	SearchFilterHo	4376	False	True	False	False	2025-07-23 11:16:04+00:00
+0x9a08befc82c0	svchost.exe	2536	True	True	True	True	
+0x9a08beefd2c0	svchost.exe	2336	True	True	True	True	
+0x9a08beddf2c0	svchost.exe	1552	True	True	True	True	
+0x9a08bef822c0	svchost.exe	2404	True	True	True	True	
+0x9a08be9182c0	svchost.exe	808	True	True	True	True	
+0x9a08bebae0c0	svchost.exe	1500	True	True	True	True	
+0x9a08bec3b040	MemCompression	1612	True	True	True	False	
+0x9a08bee670c0	svchost.exe	2180	True	True	True	True	
+0x9a08bef870c0	MsMpEng.exe	2428	True	True	True	True	
+0x9a08bea112c0	svchost.exe	1016	True	True	True	True	
+0x9a08bfd9a0c0	svchost.exe	1416	True	True	True	True	
+0x9a08c08e60c0	svchost.exe	9888	True	True	True	True	
+0x9a08be9df240	svchost.exe	996	True	True	True	True	
+0x9a08bf0ab240	SearchIndexer.	2752	True	True	True	True	
+0x9a08bea7b240	svchost.exe	368	True	True	True	True	
+0x9a08bead3240	svchost.exe	1136	True	True	True	True	
+0x9a08beb27240	svchost.exe	1204	True	True	True	True	
+0x9a08bec37240	svchost.exe	1600	True	True	True	True	
+0x9a08bebd62c0	svchost.exe	1492	True	True	True	True	
+0x9a08bed0e2c0	svchost.exe	1868	True	True	True	True	
+0x9a08bf1aa2c0	sihost.exe	3380	True	True	True	True	
+0x9a08bf99a2c0	RuntimeBroker.	4272	True	True	True	True	
+0x9a08bfaca2c0	RuntimeBroker.	4524	True	True	True	True	
+0x9a08bfec22c0	svchost.exe	5368	True	True	True	True	
+0x9a08c03c22c0	svchost.exe	6264	True	True	True	True	
+0x9a08ba598080	dllhost.exe	952	False	True	False	False	2025-07-23 11:15:57+00:00
+0x9a08bea46300	svchost.exe	488	True	True	True	True	
+0x9a08bea57300	svchost.exe	348	True	True	True	True	
+0x9a08beaed300	svchost.exe	1156	True	True	True	True	
+0x9a08beb2b300	svchost.exe	1268	True	True	True	True	
+0x9a08bedd9300	svchost.exe	1336	True	True	True	True	
+0x9a08beec9080	svchost.exe	2324	True	True	True	True	
+0x9a08beec1300	svchost.exe	2272	True	True	True	True	
+0x9a08bf58b300	svchost.exe	3392	True	True	True	True	
+0x9a08bf5db300	svchost.exe	3448	True	True	True	True	
+0x9a08bf60c300	taskhostw.exe	3552	True	True	True	True	
+0x9a08bf8f5080	StartMenuExper	4208	True	True	True	True	
+0x9a08bf999080	SearchApp.exe	4368	True	True	True	True	
+0x9a08bfec1080	svchost.exe	5428	True	True	True	True	
+0x9a08c0171080	msedge.exe	6140	True	True	True	True	
+0x9a08c01e5080	msedge.exe	5324	True	True	True	True	
+0x9a08ba77d080	SearchProtocol	9756	False	True	True	False	2025-07-23 11:16:04+00:00
+0x9a08bf6d8300	svchost.exe	7104	True	True	True	True	
+0x9a08baf47080	FTK Imager.exe	8256	False	True	False	False	2025-07-23 11:14:40+00:00
+0x9a08bf6d7340	explorer.exe	3892	True	True	True	True	
+0x9a08bd85d140	csrss.exe	424	True	True	True	False	
+0x9a08be173140	csrss.exe	500	True	True	True	False	
+0x9a08be88b140	fontdrvhost.ex	672	True	True	True	True	
+0x9a08be893140	fontdrvhost.ex	716	True	True	True	True	
+0x9a08bf378340	svchost.exe	3240	True	True	True	True	
+0x9a08bf6c7340	userinit.exe	3872	True	True	False	False	2025-07-23 11:06:35+00:00
+0x9a08c0395340	WmiPrvSE.exe	6976	True	True	True	True	
+0x9a08bd4530c0	SystemSettings	3788	True	True	True	True	
+0x9a08bfc48240	SecurityHealth	5836	True	True	True	True	
+0x9a08bd72c240	svchost.exe	3276	True	True	True	False	2025-07-23 11:09:07+00:00
+0x9a08bec972c0	svchost.exe	1756	True	True	True	True	
+0x9a08beceb2c0	svchost.exe	1852	True	True	True	True	
+0x9a08bedeb2c0	svchost.exe	1784	True	True	True	True	
+0x9a08bfd132c0	RuntimeBroker.	5048	True	True	True	True	
+0x9a08c08f32c0	svchost.exe	8060	True	True	True	True	
+0x9a08c0315080	msedge.exe	3208	True	True	True	True	
+0x9a08c09e2180	svchost.exe	8196	True	True	True	True	
+0x9a08c015a080	svchost.exe	2192	True	True	True	True	
+0x9a08c03a6080	dllhost.exe	5480	True	True	True	True	
+0x9a08c02ae080	SkypeApp.exe	7212	True	True	True	True	
+0x9a08ba786080	ShellExperienc	8816	True	True	True	True	
+0x9a08baf3a080	WmiPrvSE.exe	9144	True	True	True	True	
+0x9a08bfa3c080	svchost.exe	956	True	True	True	True	
+0x9a08baff6080	cmd.exe	6296	False	True	False	False	2025-07-23 11:13:58+00:00
+0x9a08bd726080	conhost.exe	2552	False	True	False	False	2025-07-23 11:14:11+00:00
+0xc20000182080	FTK Imager.exe	8024	False	True	False	False	
+0x9a08bff21080	RuntimeBroker.	6764	True	True	True	True	
+0x9a08c02540c0	msedge.exe	4028	True	True	True	True	
+0x9a08bd9b80c0	WinRAR.exe	1340	True	True	True	True	
+0x9a08bfbcc080	FTK Imager.exe	8024	True	True	True	True	
+0x9a08bed042c0	svchost.exe	1860	True	True	True	True	
+0x9a08beec82c0	svchost.exe	2316	True	True	True	True	
+0x9a08bd9e82c0	RuntimeBroker.	7724	True	True	True	True	
+0x9a08ba2682c0	svchost.exe	7064	True	True	True	True	
+0x9a08c0158080	svchost.exe	5376	True	True	True	True	

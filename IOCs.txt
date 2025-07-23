@@ -1,0 +1,22 @@
+MsMpEng.exe memory region with jmp rdx
+- PID 3892
+- 0x9ab0000–0x9ac1fff
+
+SearchApp.exe injected memory:
+- PID 2428
+- 0x2ba63b80000–0x2ba63c8cfff
+- 0x2ba628b0000–0x2ba629bcfff
+- 0x2ba62150000–0x2ba6224ffff
+- 0x2ba64190000–0x2ba6429cfff
+
+cmd.exe (PID 6296) – Not in `pslist`, only in `psscan`
+
+msedgewebview2.exe (PID 6852)
+- Spoofed args embedding SearchApp.exe
+- Embedded WebView flags
+
+DNS anomaly:
+- 85.114.128.127 – 6 repeated malformed DNS responses
+
+Suspicious HTTP GET:
+- 23.12.131.222 – `/get/flashplayer/update/current/install/install_all_win_cab_64_ax_sgn.z`

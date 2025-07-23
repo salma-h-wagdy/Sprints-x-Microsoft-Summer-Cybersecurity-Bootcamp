@@ -1,0 +1,4 @@
+Volatility 3 Framework 2.26.2
+
+PID	Process	Base	Size	Name	Path	LoadTime	File output
+
