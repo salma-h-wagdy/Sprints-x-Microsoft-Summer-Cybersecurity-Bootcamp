@@ -58,30 +58,37 @@ This project documents the behavioral and forensic analysis of a malware sample 
 - Fake browser process with embedded WebView CLI
 
 ## Directories
-malware-analysis-report/
+```
+Sprints-x-Microsoft-Summer-Cybersecurity-Bootcamp/
 │
 ├── README.md
-├── memory.raw                
-├── malware_analysis.pcap
-├── IOCs.txt
-├── injectedCode.yar   
-├── reports/
-│   ├── network_report
-│   ├── volatility_report
-│   └── iocs.txt
-├── screenshots of steps taken/
-|   ├── volatility analysis on kali linux/
-|   |   ├──first trial/
-|   |   └──second trial/
-|   └── wireshark,ipk on windows/  
-|  
-├── volatility outputs/
-|   ├──first trial/
-|   └──second trial/
-|      └──malfind dmp files/ 
-|  
-└── tools_used.md
+│
+├── 1- SOC task/
+│   ├── memory.raw
+│   ├── memory2.mem
+│   ├── malware_analysis.pcap
+│   ├── IOCs.txt
+│   ├── injectedCode.yar
+│   ├── tools_used.md
+│   |
+│   ├── reports/
+│   │   ├── network_report
+│   │   ├── volatility_report
+│   │   └── iocs.txt
+│   |
+│   ├── screenshots of steps taken/
+│   │   ├── volatility analysis on kali linux/
+│   │   │   ├── first trial/
+│   │   │   └── second trial/
+│   │   └── wireshark,ipk on windows/
+│   |
+│   └── volatility outputs/
+│       ├── first trial/
+│       └── second trial/
+│           └── malfind dmp files/
+└──
 
+```
 
 ## Disclaimer
 This analysis was performed in a safe environment. Do not attempt to execute real malware samples outside of an isolated virtual machine.
