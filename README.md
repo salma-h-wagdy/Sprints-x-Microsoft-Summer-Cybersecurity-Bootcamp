@@ -33,6 +33,22 @@ This project documents the behavioral and forensic analysis of a malware sample 
 ### IOCs (Indicators of Compromise)
 
 
+## Directories
+malware-analysis-report/
+│
+├── README.md
+├── memory.raw                
+├── malware_analysis.pcap    
+├── reports/
+│   ├── network_report
+│   ├── volatility_report
+│   └── iocs.txt
+├── screenshots of steps taken/
+|   volatility analysis on kali linux/
+|   wireshark,ipk on windows/  
+|       
+└── tools_used.md
+
 
 ## Disclaimer
 This analysis was performed in a safe environment. Do not attempt to execute real malware samples outside of an isolated virtual machine.
