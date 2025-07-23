@@ -46,7 +46,7 @@ This project documents the behavioral and forensic analysis of a malware sample 
     - MsMpEng.exe (PID 3892):
 
         - 0x9ab0000–0x9ac1fff
-        
+
 - Suspicious spoofing via msedgewebview2.exe launching SearchApp.exe
 - Duplicate SSDT entry for `GetPnpProperty@NT_DISK` (possible anomaly)
 
@@ -67,14 +67,13 @@ Sprints-x-Microsoft-Summer-Cybersecurity-Bootcamp/
 │   ├── memory.raw
 │   ├── memory2.mem
 │   ├── malware_analysis.pcap
-│   ├── IOCs.txt
 │   ├── injectedCode.yar
 │   ├── tools_used.md
 │   |
 │   ├── reports/
 │   │   ├── network_report
 │   │   ├── volatility_report
-│   │   └── iocs.txt
+│   │   └── IOCs.txt
 │   |
 │   ├── screenshots of steps taken/
 │   │   ├── volatility analysis on kali linux/
