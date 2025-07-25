@@ -1,0 +1,39 @@
+Tracked IP Addresses
+--------------------------------------------------------------------------------------------------
+
+Sources Queried:
+----------------
+
+    Intelligence X
+
+    Google Dorking
+
+    Hudson Rock API
+
+Findings:
+---------
+- IntelligenceX:
+
+| IP Address      | Region | Source Dump File                                    | Context                             |
+| --------------- | ------ | --------------------------------------------------- | ----------------------------------- |
+| 74.50.94.211    | US     | `keu1].rar/Important Files/Desktop/SKYYYYYYY.txt`   | Found in infostealer dump on IntelX |
+| 129.205.113.199 | NG     | `others_153640.txt`                                 | Extracted from user desktop         |
+| 152.110.151.79  | ZA     | `uu_Valid.txt_Valid.txt`                            | Included in desktop dump            |
+| 171.97.223.78   | TH     | `Excellent. Thanks much.txt`                        | MetaMask reference included         |
+| 111.95.44.115   | ID     | `email_20240828064922.txt`                          | Found in recent credential dump     |
+| 102.90.58.49    | NG     | `Malay leads.txt`, `my leads7.txt`, `Clipboard.txt` | Several data files and leads found  |
+| 146.70.104.254  | GB     | `protonmail.txt`                                    | Tied to ProtonMail leaks            |
+| 105.112.161.80  | NG     | `webmail.txt`                                       | Legacy leak                         |
+
+
+- Hudson Rock API:
+
+IP Address	    Source          Leak/Post	    Context
+138.94.*.**	    Hudson Rock     Lumma logs  	Info-stealer-infected machine
+201.218.*.	    Hudson Rock     RedLine	        Info-stealer-infected machine
+
+
+- GoogleDorks
+
+found nothing
+
