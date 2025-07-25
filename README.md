@@ -57,6 +57,40 @@ This project documents the behavioral and forensic analysis of a malware sample 
 - Hidden process `cmd.exe` (PID 6296)
 - Fake browser process with embedded WebView CLI
 
+
+## Disclaimer
+This analysis was performed in a safe environment. Do not attempt to execute real malware samples outside of an isolated virtual machine.
+
+
+
+
+---
+# 2- OSINT phase task: Track a Cyber Criminal
+
+# OSINT Investigation – Track a Cyber Criminal
+
+## Overview
+This project was completed as part of the Sprints x Microsoft Summer Cybersecurity Bootcamp. It applies Open Source Intelligence (OSINT) methods to trace the digital footprint of a threat actor known as **DarkWebX** using publicly available tools and frameworks.
+
+## Objectives
+- Identify social media accounts
+- Discover associated email addresses
+- Check for data breaches (bonus)
+- Trace IP addresses from leaked logs
+- Document findings in a structured investigation report
+
+## Tools Used
+- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [theHarvester](https://github.com/laramies/theHarvester)
+- [HaveIBeenPwned.py](https://github.com/cheetz/HaveIBeenPwned)
+- Google Dorking
+- WHOIS lookup
+- Screenshots & documentation
+
+
+
+
+---
 ## Directories
 ```
 Sprints-x-Microsoft-Summer-Cybersecurity-Bootcamp/
@@ -85,9 +119,14 @@ Sprints-x-Microsoft-Summer-Cybersecurity-Bootcamp/
 │       ├── first trial/
 │       └── second trial/
 │           └── malfind dmp files/
-└──
+└──2- OSINT task/
+   ├── osint_report
+   ├── results found/
+   │   ├── social_media_accounts.txt
+   │   ├── emails_found.txt
+   │   ├── breached_data.txt
+   │   └── ip_addresses.txt
+   ├── screenshots/
+   └── tools_used.md
 
 ```
-
-## Disclaimer
-This analysis was performed in a safe environment. Do not attempt to execute real malware samples outside of an isolated virtual machine.
