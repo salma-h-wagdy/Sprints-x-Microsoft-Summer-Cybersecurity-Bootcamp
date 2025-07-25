@@ -1,0 +1,12 @@
+- site:hackerforums.net  "darkwebx" | "DarkWebX"
+- site:protonmail.com  "darkwebx" | "DarkWebX"
+- intitle:"data leak" | intext:"data leak"  "darkwebx" | "DarkWebX"
+- "darkwebx" | "DarkWebX" | "last login IP"
+- "darkwebx" | "DarkWebX" intext:"IP"
+- "darkwebx" | "DarkWebX" intext:"ip"
+- "darkwebx" | "DarkWebX" intext:"Lumma logs" | "RedLine"
+- site:hackerforums.net "darkwebx" @protonmail.com 
+- "darkwebx" email address
+- "darkwebx" intext:"leaked log"
+- intext:"leaked log" | "darkwebx" | "DarkWebX"
+- intext:"protonmail.com" | "darkwebx" | "DarkWebX"

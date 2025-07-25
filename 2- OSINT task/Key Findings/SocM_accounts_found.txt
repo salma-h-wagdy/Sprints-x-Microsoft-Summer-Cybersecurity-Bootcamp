@@ -1,0 +1,146 @@
+SOCMINT:
+--------------------------------------------------------------------------------------------------
+
+- "Sherlock DarkWebX" output:
+
+
+[*] Checking username DarkWebX on:
+
+[+] 9GAG: https://www.9gag.com/u/DarkWebX
+[+] Behance: https://www.behance.net/DarkWebX
+[+] Blogger: https://DarkWebX.blogspot.com
+[+] DeviantART: https://DarkWebX.deviantart.com
+[+] Duolingo: https://www.duolingo.com/profile/DarkWebX
+[+] Freelance.habr: https://freelance.habr.com/freelancers/DarkWebX
+[+] GNOME VCS: https://gitlab.gnome.org/DarkWebX
+[+] GitHub: https://www.github.com/DarkWebX
+[+] HackenProof (Hackers): https://hackenproof.com/hackers/DarkWebX
+[+] HudsonRock: https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username=DarkWebX
+[+] Hugging Face: https://huggingface.co/DarkWebX
+[+] kaskus: https://www.kaskus.co.id/@DarkWebX
+[+] LibraryThing: https://www.librarything.com/profile/DarkWebX
+[+] Mydramalist: https://www.mydramalist.com/profile/DarkWebX
+[+] NationStates Nation: https://nationstates.net/nation=DarkWebX
+[+] NationStates Region: https://nationstates.net/region=DarkWebX
+[+] Reddit: https://www.reddit.com/user/DarkWebX
+[+] Roblox: https://www.roblox.com/user.aspx?username=DarkWebX
+[+] Scratch: https://scratch.mit.edu/users/DarkWebX
+[+] TorrentGalaxy: https://torrentgalaxy.to/profile/DarkWebX
+[+] Velomania: https://forum.velomania.ru/member.php?username=DarkWebX
+[+] Weblate: https://hosted.weblate.org/user/DarkWebX/
+[+] WordPress: https://DarkWebX.wordpress.com/
+[+] Xbox Gamertag: https://xboxgamertag.com/search/DarkWebX
+[+] YandexMusic: https://music.yandex/users/DarkWebX/playlists
+[+] YouTube: https://www.youtube.com/@DarkWebX
+[+] geocaching: https://www.geocaching.com/p/default.aspx?u=DarkWebX
+[+] svidbook: https://www.svidbook.ru/user/DarkWebX
+[+] threads: https://www.threads.net/@DarkWebX
+
+[*] Search completed with 29 results
+
+
+using IntelligenceX:
+
+https://x.com/darkwebx
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Checking Validity of results:
+
+1.  https://www.9gag.com/u/DarkWebX - Dormant
+    - Last post in 2019
+    - Profile photo present
+
+2. https://www.behance.net/DarkWebX - Dormant
+    - No recent activity, empty profile
+
+3. https://DarkWebX.blogspot.com - Invalid
+    - not a username, simply a headline
+
+4. https://DarkWebX.deviantart.com - Dormant
+    - Created in feb,2025
+    - No recent activity, empty profile
+
+5. https://www.duolingo.com/profile/DarkWebX - Dormant
+    - created in 2019
+    - no recent activity
+
+6. https://freelance.habr.com/freelancers/DarkWebX - Invalid
+    - site closed
+
+7. https://gitlab.gnome.org/DarkWebX - Invalid
+    - Inaccessible
+
+8. https://www.github.com/DarkWebX - Dormant
+    -no recent activity
+
+9. https://hackenproof.com/hackers/DarkWebX - Invalid
+    - 404
+
+10. https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username=DarkWebX - Valuable 
+
+
+11.  https://huggingface.co/DarkWebX - Dormant
+    - inactive, no profile picture or followers
+
+12. https://www.kaskus.co.id/@DarkWebX - Invalid
+    - not found
+
+13. https://www.librarything.com/profile/DarkWebX - Invalid
+    - not found
+
+14. https://www.mydramalist.com/profile/DarkWebX - Invalid
+    - not found
+
+15. https://nationstates.net/nation=DarkWebX - Invalid
+    -not found
+
+16. https://www.reddit.com/user/DarkWebX - Active
+    -has recent activity, followers, profile picture
+
+17. https://www.roblox.com/user.aspx?username=DarkWebX - dormant
+    - no recent activity
+
+18. https://scratch.mit.edu/users/DarkWebX - dormant
+    - no recent activity
+
+19. https://torrentgalaxy.to/profile/DarkWebX - Invalid
+
+20. https://forum.velomania.ru/member.php?username=DarkWebX - Invalid
+
+21. https://hosted.weblate.org/user/DarkWebX/ - Invalid
+
+22. https://DarkWebX.wordpress.com/ - Dormant
+    - no recent activity
+
+23. https://xboxgamertag.com/search/DarkWebX - dormant
+    - no recent activity, last 2 years ago
+
+24. https://music.yandex/users/DarkWebX/playlists - unavailable
+    - unavailable in my region
+
+25. https://www.youtube.com/@DarkWebX - dormant
+    - last activity 6 mon ago
+
+26. https://www.geocaching.com/p/default.aspx?u=DarkWebX - Invalid
+
+27. https://www.svidbook.ru/user/DarkWebX - Invalid
+
+28. https://www.threads.net/@DarkWebX - Invalid
+
+29. https://nationstates.net/region=DarkWebX - Invalid
+
+30. https://x.com/darkwebx - Invalid
+    -no recent activity
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- Verified accounts :
+
+1. https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username=DarkWebX
+
+    - has leaked credentials data
+
+2. https://www.reddit.com/user/DarkWebX
+

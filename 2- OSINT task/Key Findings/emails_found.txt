@@ -1,0 +1,43 @@
+- Emails Found
+--------------------------------------------------------------------------------------------------
+
+Tool Used: theHarvester
+
+Domains Searched:
+
+    - hackerforums.net
+    - protonmail.com
+    - Hacker.io
+    - LeakCheck.io 
+
+
+
+Backends Used: 
+    - Bing
+    - Google (tried it but it's not a valid search engine for theHarvester)
+    - duckduckgo
+    - Shodan
+
+
+The only result i found was using bing with protonmail.com:
+
+[*] Emails found: 1                                                                                                   
+----------------------                                                                                                
+yourusername@protonmail.com  
+
+
+
+---------------------------------------------------------------------------
+
+Tool Used : IntelligenceX
+
+Domains searched:
+
+    -protonmail
+    -gmail
+    -yahoo
+    -
+
+
+
+No results found

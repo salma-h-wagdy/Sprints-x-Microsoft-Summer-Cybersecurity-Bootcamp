@@ -1,0 +1,23 @@
+Breached Data Spotted:
+--------------------------------------------------------------------------------------------------
+
+
+During SOCMINT, I discovered the following resource :  https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username=DarkWebX
+
+which led me to this data from Hudson Rock’s OSINT API tools, :
+
+Leaked Credentials (via Info-Stealer Infection)
+
+the alias DarkWebX is tied to two compromised machines infected by known info-stealers:
+---------------------------------------------------------------------------------------
+Date Compromised	Stealer     Family	    OS	    Comp Name	IP Address (Partial)	Malware Path
+2024-02-08	        Lumma	    Win 10      x64	    Kelvin	    138.94.*.**	            BitLockerToGo.exe
+2024-01-25	        RedLine	    Win 10 Home x64	    HP	        201.218.*.**	        Not Found
+
+    Top leaked credentials (obfuscated) included:
+
+        Emails: d*****@gmail.com, k******@hotmail.com, etc.
+
+        Passwords: m*********0, N*******d, etc.
+
+This confirms exposure of DarkWebX’s credentials, likely enabling unauthorized access to social media, email, and online services.
